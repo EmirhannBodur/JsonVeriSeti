@@ -1,0 +1,502 @@
+[
+    {
+        "id":"1",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cilekli_pasta.jpg",
+        "description":"Bu gün doğum günüm #dogumgunu"
+    },
+    {
+        "id":"2",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cilekli_pasta_2.jpg",
+        "description":"Bu pastayı ben yaptım"
+    },
+    {
+        "id":"3",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cilekli_pasta_3.jpg",
+        "description":"Pembe rengi seviyorum"
+    },
+    {
+        "id":"4",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cilekli_pasta_4.jpg",
+        "description":"Minimal bir doğum günü"
+    },
+    {
+        "id":"5",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cilekli_pasta_5.jpg",
+        "description":"Pastalar pahalı olmuş yav"
+    },
+    {
+        "id":"6",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/diyet_1.jpg",
+        "description":"Diyetisyenimin önerdiği tabak"
+    },
+    {
+        "id":"7",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/diyet_2.jpg",
+        "description":"Çilekle beraber çok iyi oluyor"
+    },
+    {
+        "id":"8",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/diyet_3.jpg",
+        "description":"Bal ile muz çok şekerli oluyo ama şeker ihtiyacını böyle hallet dedi doktor.#diyet"
+    },
+    {
+        "id":"9",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/diyet_4.jpg",
+        "description":"Meyve tabağı böyle olur be"
+    },
+    {
+        "id":"10",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/diyet_5.jpg",
+        "description":"Çok iyi la"
+    },
+    {
+        "id":"11",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/durum_1.jpg",
+        "description":"Hatay usulü bol soslu döner yenür"
+    },
+    {
+        "id":"12",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/durum_2.jpg",
+        "description":"Sarımsaklı olunca dehşet oluyo"
+    },
+    {
+        "id":"13",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/durum_3.jpg",
+        "description":"Dürüme hamburger sos sağlam oluyor deneyin "
+    },
+    {
+        "id":"14",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/durum_4.jpg",
+        "description":"Alman döneri gibi dürüm verdiler lan dolu dolu"
+    },
+    {
+        "id":"15",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/durum_5.jpg",
+        "description":"Kebo dürüm yeyin yedirin"
+    },
+    {
+        "id":"16",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hamburger_1.jpg",
+        "description":"Chili burgerde fiyatlar ateş pahası almayın arkadaşlar"
+    },
+    {
+        "id":"17",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hamburger_2.jpg",
+        "description":"Şu tepsiyi gömer dediğine gönder."
+    },
+    {
+        "id":"18",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hamburger_3.jpg",
+        "description":"Camış"
+    },
+    {
+        "id":"19",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hamburger_4.jpg",
+        "description":"Beğenmedim sıradan hamburger"
+    },
+    {
+        "id":"20",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hamburger_5.jpg",
+        "description":"Bunu daha ucuza yaparım"
+    },
+    {
+        "id":"21",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kahvalti_1.jpg",
+        "description":"Serpme kahvaltı keyfisi"
+    },
+    {
+        "id":"22",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kahvalti_2.jpg",
+        "description":"Sen ve ben :)"
+    },
+    {
+        "id":"23",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kahvalti_3.jpg",
+        "description":"Masada bir kuş sütü eksik"
+    },
+    {
+        "id":"24",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kahvalti_4.jpg",
+        "description":"Bir uzak doğu kahvaltısı"
+    },
+    {
+        "id":"25",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kahvalti_5.jpg",
+        "description":"Günaydınlar dostlar"
+    },
+    {
+        "id":"26",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/karniyarik_1.jpg",
+        "description":"Patlıcanın tek güzel olduğu yemek"
+    },
+    {
+        "id":"27",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/karniyarik_2.jpg",
+        "description":"Tarif isteyen dm atsın"
+    },
+    {
+        "id":"28",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/karniyarik_3.jpg",
+        "description":"Bunu sevmeyenin arka kapısı gıcırdıyodur."
+    },
+    {
+        "id":"29",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/karniyarik_4.jpg",
+        "description":"Mis be"
+    },
+    {
+        "id":"30",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/karniyarik_5.jpg",
+        "description":"Bunun tadını bilen bi like atsın la!"
+    },
+    {
+        "id":"31",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kavurma_1.jpg",
+        "description":"Sac kavurma mı beee"
+    },
+    {
+        "id":"32",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kavurma_2.jpg",
+        "description":"Sos kavurma pilav offff"
+    },
+    {
+        "id":"33",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kavurma_3.jpg",
+        "description":"Pilav pek iyi olmadı öğreniyoruz"
+    },
+    {
+        "id":"34",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kavurma_4.jpg",
+        "description":"Çok dengeli tabak"
+    },
+    {
+        "id":"35",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kavurma_5.jpg",
+        "description":"Mis gibi mekan mis gibi masa"
+    },
+    {
+        "id":"36",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kebab_1.jpg",
+        "description":"Urfalıyam ezeldenn"
+    },
+    {
+        "id":"37",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kebab_2.jpg",
+        "description":"Kebab sizce hangi şehrin?"
+    },
+    {
+        "id":"38",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kebab_3.jpg",
+        "description":"Bir kebabçıya gittim yağ koymuşlar kocaman"
+    },
+    {
+        "id":"39",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kebab_4.jpg",
+        "description":"Agalarla..."
+    },
+    {
+        "id":"40",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kebab_5.jpg",
+        "description":"Tavuk şiş iyi beyler deneyin"
+    },
+    {
+        "id":"41",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kek_1.jpg",
+        "description":"Çikolatalı kekler her zaman favorimdir"
+    },
+    {
+        "id":"42",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kek_2.jpg",
+        "description":"Çilek kremşantili kekler her zaman seni bekler"
+    },
+    {
+        "id":"43",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kek_3.jpg",
+        "description":"Oreo'lu kekler marjinal işidir"
+    },
+    {
+        "id":"44",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kek_4.jpg",
+        "description":"Karamelli kek mi mmmmm severim"
+    },
+    {
+        "id":"45",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kek_5.jpg",
+        "description":"Okul için hazırladım"
+    },
+    {
+        "id":"46",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kumpir_1.jpg",
+        "description":"Çok abartılan bir yiyecek"
+    },
+    {
+        "id":"47",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/kumpir_2.jpg",
+        "description":"Bu güzelmiş lan"
+    },
+    {
+        "id":"48",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/mercimek_1.jpg",
+        "description":"Kocaman toteme çorba yazmış giriyorum soruyorum ne çorbası? Mercimek diyo ulan hayallerimle oynadın"
+    },
+    {
+        "id":"49",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/mercimek_2.jpg",
+        "description":"Ezogelin yemeyen tadnı bilemez"
+    },
+    {
+        "id":"50",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/mercimek_3.jpg",
+        "description":"Bu tarz kıvamlı olunca bu çorba pek gitmiyo ama olsun"
+    },
+    {
+        "id":"51",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/mercimek_4.jpg",
+        "description":"Krema koymuşlar güzelim çorbaya"
+    },
+    {
+        "id":"52",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/mercimek_5.jpg",
+        "description":"Krema bozmuş"
+    },
+    {
+        "id":"53",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/meyve_1.jpg",
+        "description":"Erik mevsimi gelsin artıkkkk"
+    },
+    {
+        "id":"54",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/meyve_2.jpg",
+        "description":"Limonla daha iyi oluyor deneyin"
+    },
+    {
+        "id":"55",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/meyve_3.jpg",
+        "description":"Gel kiraz yiyelim"
+    },
+    {
+        "id":"56",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/meyve_4.jpg",
+        "description":"Eskiden böyle kayısılar veren ağaçlarımız vardı hepsi kurudu :( "
+    },
+    {
+        "id":"57",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/meyve_5.jpg",
+        "description":"Nektari yemeyen adam adam mıdır lo"
+    },
+    {
+        "id":"58",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/meyve_6.jpg",
+        "description":"Satışlarımız başlamıştır"
+    },
+    {
+        "id":"59",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/meyve_7.jpg",
+        "description":"Meyve stoklarımız yenilenmiştir"
+    },
+    {
+        "id":"60",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/meyve_8.jpg",
+        "description":"Ne garip meyveler var yav bu arada çilekler olmamış daha"
+    },
+    {
+        "id":"61",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/meyve_9.jpg",
+        "description":"Kendime şöyle minimal bi tabak yaptım kesinlikle minimal"
+    },
+    {
+        "id":"62",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/meyve_10.jpg",
+        "description":"Türk ailelerinin özür dileme yöntemi"
+    },
+    {
+        "id":"63",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/milk_shake_1.png",
+        "description":"Oreo'yu her şeye sokuyolar ama güzel oluyo yav"
+    },
+    {
+        "id":"64",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/milkshake_2.jpg",
+        "description":"Ev yapımı çilekli milkshake"
+    },
+    {
+        "id":"65",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/milkshake_3.jpg",
+        "description":"Sosyal tesislerden beklenmedik milkshake"
+    },
+    {
+        "id":"66",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/milkshake_4.jpg",
+        "description":"İstediğim milkshake bu işte"
+    },
+    {
+        "id":"67",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/milkshake_5.jpg",
+        "description":"Özel istek üzerine yapılmıştır ama baya iyi oldu"
+    },
+    {
+        "id":"68",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/patates_1.jpg",
+        "description":"Ketçap mayonez ve baharatlı kıtır kıtır patates mi neeee diyooo olummmm"
+    },
+    {
+        "id":"69",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/patates_2.jpg",
+        "description":"Çıtır tavuk ve patates başka ne istenir ki"
+    },
+    {
+        "id":"70",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/patates_3.jpg",
+        "description":"Agalarla iş çıkışı"
+    },
+    {
+        "id":"71",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/patates_4.jpg",
+        "description":"Bu tarz patates yapmayı bir türlü beceremiyom"
+    },
+    {
+        "id":"72",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/patates_5.jpg",
+        "description":"Baharat her şeye güzel oluyoda patatese ayrı bi yakışıyor"
+    },
+    {
+        "id":"73",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/pilav_1.jpg",
+        "description":"Maniti getirilcek en kaliteli mekan"
+    },
+    {
+        "id":"74",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/pilav_2.jpg",
+        "description":"Süper ikili"
+    },
+    {
+        "id":"75",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/pilav_3.jpg",
+        "description":"Okul çıkışı vazgeçilmez mekandayız"
+    },
+    {
+        "id":"76",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/pizza_1.jpg",
+        "description":"Bol sucuklu bide usta ya"
+    },
+    {
+        "id":"77",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/pizza_2.jpg",
+        "description":"Kalpli pizza yapanımız yok ki be"
+    },
+    {
+        "id":"78",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/pizza_4.jpg",
+        "description":"Koca bir dilim pizzaaaaa"
+    },
+    {
+        "id":"79",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/pizza_5.jpg",
+        "description":"Vay anam vay"
+    },
+    {
+        "id":"80",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/salata_1.jpg",
+        "description":"Spordan sonra kendi yaptığım protein ve karbonhidrat zengini salatımı yiyorum"
+    },
+    {
+        "id":"81",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/salata_2.jpg",
+        "description":"Avakodu biraz zengin işi oldu ama güzel bir renk kattı"
+    },
+    {
+        "id":"82",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/salata_3.jpg",
+        "description":"Şahsen ben beğenmedim"
+    },
+    {
+        "id":"83",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/salata_4.jpg",
+        "description":"Peynir domatesle çok iyi ikili oluyo"
+    },
+    {
+        "id":"84",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/salata_5.jpg",
+        "description":"Sağlık"
+    },
+    {
+        "id":"85",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/sandvic_1.jpg",
+        "description":"Her sabah fix kahvaltı şekli"
+    },
+    {
+        "id":"86",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/sandvic_2.jpg",
+        "description":"Bu görsel yapay zeka ile yapıldı ama canım çekti"
+    },
+    {
+        "id":"87",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/sandvic_3.jpg",
+        "description":"Erkek adam işi tost"
+    },
+    {
+        "id":"88",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/sandvic_4.jpg",
+        "description":"Bunu yeyip doymayan adam değildir"
+    },
+    {
+        "id":"89",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/sandvic_5.jpg",
+        "description":"Görselin güzellik çoğı kızdan güzel"
+    },
+    {
+        "id":"90",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/sarma_1.jpg",
+        "description":"G3 mermisi gibi dizmiş majfosofjosjos"
+    },
+    {
+        "id":"91",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/sarma_2.jpg",
+        "description":"Zeytinyağlı sarma yemeden yatma"
+    },
+    {
+        "id":"92",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/sarma_3.jpg",
+        "description":"Yani eh işte iyi gibi"
+    },
+    {
+        "id":"93",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/sarma_4.jpg",
+        "description":"Yemek yapmak bir sanattır"
+    },
+    {
+        "id":"94",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/sarma_5.jpg",
+        "description":"Nar bir tık abartı gibi ama güzel bir görsel oldu"
+    },
+    {
+        "id":"95",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/tavuk_1.jpg",
+        "description":"Erkek işi tavuk sote"
+    },
+    {
+        "id":"96",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/tavuk_2.jpg",
+        "description":"Fırında tavuk şiş denedim iyi oldu kurumadı"
+    },
+    {
+        "id":"97",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/tavuk_3.jpg",
+        "description":"Bol soslu bir tavuk kanat mı be"
+    },
+    {
+        "id":"98",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/tavuk_4.jpg",
+        "description":"Tavuğun her türlüsü güzel"
+    },
+    {
+        "id":"99",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/tavuk_5.jpg",
+        "description":"Besleyici bir öğün"
+    },
+    {
+        "id":"100",
+        "imageurl":"https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/pide.jpg",
+        "description":"Evde pide keyfi"
+    }
+]
