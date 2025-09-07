@@ -1,0 +1,507 @@
+{
+    "kategori": "🐾 Hayvanlar",
+    "olusturulma_tarihi": "2025-09-06 22:53:12",
+    "veri_sayisi": 100,
+    "veriler": [
+        {
+            "id": "HAY_001",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_1.jpg"
+        },
+        {
+            "id": "HAY_002",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_2.jpg"
+        },
+        {
+            "id": "HAY_003",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_3.jpg"
+        },
+        {
+            "id": "HAY_004",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_4.jpg"
+        },
+        {
+            "id": "HAY_005",
+            "description": "Kedilerin davranışlarını anlama: Miyavlamaların ve vücut dilinin gizemi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_5.jpg"
+        },
+        {
+            "id": "HAY_006",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_6.jpg"
+        },
+        {
+            "id": "HAY_007",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_7.jpg"
+        },
+        {
+            "id": "HAY_008",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_8.jpg"
+        },
+        {
+            "id": "HAY_009",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_9.jpg"
+        },
+        {
+            "id": "HAY_010",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_10.jpg"
+        },
+        {
+            "id": "HAY_011",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_11.jpg"
+        },
+        {
+            "id": "HAY_012",
+            "description": "Kedilerin davranışlarını anlama: Miyavlamaların ve vücut dilinin gizemi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_12.jpg"
+        },
+        {
+            "id": "HAY_013",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_13.jpg"
+        },
+        {
+            "id": "HAY_014",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_14.jpg"
+        },
+        {
+            "id": "HAY_015",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_15.jpg"
+        },
+        {
+            "id": "HAY_016",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_16.jpg"
+        },
+        {
+            "id": "HAY_017",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_17.jpg"
+        },
+        {
+            "id": "HAY_018",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_18.jpg"
+        },
+        {
+            "id": "HAY_019",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_19.jpg"
+        },
+        {
+            "id": "HAY_020",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_20.jpg"
+        },
+        {
+            "id": "HAY_021",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_21.jpg"
+        },
+        {
+            "id": "HAY_022",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_22.jpg"
+        },
+        {
+            "id": "HAY_023",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_23.jpg"
+        },
+        {
+            "id": "HAY_024",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_24.jpg"
+        },
+        {
+            "id": "HAY_025",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_25.jpg"
+        },
+        {
+            "id": "HAY_026",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_26.jpg"
+        },
+        {
+            "id": "HAY_027",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_27.jpg"
+        },
+        {
+            "id": "HAY_028",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_28.jpg"
+        },
+        {
+            "id": "HAY_029",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_29.jpg"
+        },
+        {
+            "id": "HAY_030",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_30.jpg"
+        },
+        {
+            "id": "HAY_031",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_31.jpg"
+        },
+        {
+            "id": "HAY_032",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_32.jpg"
+        },
+        {
+            "id": "HAY_033",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_33.jpg"
+        },
+        {
+            "id": "HAY_034",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_34.jpg"
+        },
+        {
+            "id": "HAY_035",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_35.jpg"
+        },
+        {
+            "id": "HAY_036",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_36.jpg"
+        },
+        {
+            "id": "HAY_037",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_37.jpg"
+        },
+        {
+            "id": "HAY_038",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_38.jpg"
+        },
+        {
+            "id": "HAY_039",
+            "description": "Kedilerin davranışlarını anlama: Miyavlamaların ve vücut dilinin gizemi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_39.jpg"
+        },
+        {
+            "id": "HAY_040",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_40.jpg"
+        },
+        {
+            "id": "HAY_041",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_41.jpg"
+        },
+        {
+            "id": "HAY_042",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_42.jpg"
+        },
+        {
+            "id": "HAY_043",
+            "description": "Kedilerin davranışlarını anlama: Miyavlamaların ve vücut dilinin gizemi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_43.jpg"
+        },
+        {
+            "id": "HAY_044",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_44.jpg"
+        },
+        {
+            "id": "HAY_045",
+            "description": "Kedilerin davranışlarını anlama: Miyavlamaların ve vücut dilinin gizemi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_45.jpg"
+        },
+        {
+            "id": "HAY_046",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_46.jpg"
+        },
+        {
+            "id": "HAY_047",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_47.jpg"
+        },
+        {
+            "id": "HAY_048",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_48.jpg"
+        },
+        {
+            "id": "HAY_049",
+            "description": "Kedilerin davranışlarını anlama: Miyavlamaların ve vücut dilinin gizemi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_49.jpg"
+        },
+        {
+            "id": "HAY_050",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_50.jpg"
+        },
+        {
+            "id": "HAY_051",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_51.jpg"
+        },
+        {
+            "id": "HAY_052",
+            "description": "Kedilerin davranışlarını anlama: Miyavlamaların ve vücut dilinin gizemi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_52.jpg"
+        },
+        {
+            "id": "HAY_053",
+            "description": "Kedilerin davranışlarını anlama: Miyavlamaların ve vücut dilinin gizemi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_53.jpg"
+        },
+        {
+            "id": "HAY_054",
+            "description": "Kedilerin davranışlarını anlama: Miyavlamaların ve vücut dilinin gizemi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_54.jpg"
+        },
+        {
+            "id": "HAY_055",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_55.jpg"
+        },
+        {
+            "id": "HAY_056",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_56.jpg"
+        },
+        {
+            "id": "HAY_057",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_57.jpg"
+        },
+        {
+            "id": "HAY_058",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_58.jpg"
+        },
+        {
+            "id": "HAY_059",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_59.jpg"
+        },
+        {
+            "id": "HAY_060",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_60.jpg"
+        },
+        {
+            "id": "HAY_061",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_61.jpg"
+        },
+        {
+            "id": "HAY_062",
+            "description": "Kedilerin davranışlarını anlama: Miyavlamaların ve vücut dilinin gizemi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_62.jpg"
+        },
+        {
+            "id": "HAY_063",
+            "description": "Kedilerin davranışlarını anlama: Miyavlamaların ve vücut dilinin gizemi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_63.jpg"
+        },
+        {
+            "id": "HAY_064",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_64.jpg"
+        },
+        {
+            "id": "HAY_065",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_65.jpg"
+        },
+        {
+            "id": "HAY_066",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_66.jpg"
+        },
+        {
+            "id": "HAY_067",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_67.jpg"
+        },
+        {
+            "id": "HAY_068",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_68.jpg"
+        },
+        {
+            "id": "HAY_069",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_69.jpg"
+        },
+        {
+            "id": "HAY_070",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_70.jpg"
+        },
+        {
+            "id": "HAY_071",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_71.jpg"
+        },
+        {
+            "id": "HAY_072",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_72.jpg"
+        },
+        {
+            "id": "HAY_073",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_73.jpg"
+        },
+        {
+            "id": "HAY_074",
+            "description": "Kedilerin davranışlarını anlama: Miyavlamaların ve vücut dilinin gizemi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_74.jpg"
+        },
+        {
+            "id": "HAY_075",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_75.jpg"
+        },
+        {
+            "id": "HAY_076",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_76.jpg"
+        },
+        {
+            "id": "HAY_077",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_77.jpg"
+        },
+        {
+            "id": "HAY_078",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_78.jpg"
+        },
+        {
+            "id": "HAY_079",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_79.jpg"
+        },
+        {
+            "id": "HAY_080",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_80.jpg"
+        },
+        {
+            "id": "HAY_081",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_81.jpg"
+        },
+        {
+            "id": "HAY_082",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_82.jpg"
+        },
+        {
+            "id": "HAY_083",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_83.jpg"
+        },
+        {
+            "id": "HAY_084",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_84.jpg"
+        },
+        {
+            "id": "HAY_085",
+            "description": "Kedilerin davranışlarını anlama: Miyavlamaların ve vücut dilinin gizemi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_85.jpg"
+        },
+        {
+            "id": "HAY_086",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_86.jpg"
+        },
+        {
+            "id": "HAY_087",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_87.jpg"
+        },
+        {
+            "id": "HAY_088",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_88.jpg"
+        },
+        {
+            "id": "HAY_089",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_89.jpg"
+        },
+        {
+            "id": "HAY_090",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_90.jpg"
+        },
+        {
+            "id": "HAY_091",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_91.jpg"
+        },
+        {
+            "id": "HAY_092",
+            "description": "Nesli tükenmekte olan hayvanları koruma çabaları ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_92.jpg"
+        },
+        {
+            "id": "HAY_093",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_93.jpg"
+        },
+        {
+            "id": "HAY_094",
+            "description": "Vahşi yaşam: Afrika'nın büyük beşlisi ve doğal yaşam alanları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_94.jpg"
+        },
+        {
+            "id": "HAY_095",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_95.jpg"
+        },
+        {
+            "id": "HAY_096",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_96.jpg"
+        },
+        {
+            "id": "HAY_097",
+            "description": "Kedilerin davranışlarını anlama: Miyavlamaların ve vücut dilinin gizemi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_97.jpg"
+        },
+        {
+            "id": "HAY_098",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_98.jpg"
+        },
+        {
+            "id": "HAY_099",
+            "description": "Kuş gözlemciliği: Türkiye'de görülebilecek endemik kuş türleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_99.jpg"
+        },
+        {
+            "id": "HAY_100",
+            "description": "Evcil hayvan bakımı: Köpekleriniz için sağlıklı beslenme önerileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hayvan_100.jpg"
+        }
+    ]
+}

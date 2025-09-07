@@ -1,0 +1,507 @@
+{
+    "kategori": "🎵 Müzik",
+    "olusturulma_tarihi": "2025-09-07 20:02:45",
+    "veri_sayisi": 100,
+    "veriler": [
+        {
+            "id": "MÜZ_001",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_1.jpg"
+        },
+        {
+            "id": "MÜZ_002",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_2.jpg"
+        },
+        {
+            "id": "MÜZ_003",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_3.jpg"
+        },
+        {
+            "id": "MÜZ_004",
+            "description": "Türk halk müziği: Yöresel enstrümanlar ve türkülerin hikayeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_4.jpg"
+        },
+        {
+            "id": "MÜZ_005",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_5.jpg"
+        },
+        {
+            "id": "MÜZ_006",
+            "description": "Türk halk müziği: Yöresel enstrümanlar ve türkülerin hikayeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_6.jpg"
+        },
+        {
+            "id": "MÜZ_007",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_7.jpg"
+        },
+        {
+            "id": "MÜZ_008",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_8.jpg"
+        },
+        {
+            "id": "MÜZ_009",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_9.jpg"
+        },
+        {
+            "id": "MÜZ_010",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_10.jpg"
+        },
+        {
+            "id": "MÜZ_011",
+            "description": "Türk halk müziği: Yöresel enstrümanlar ve türkülerin hikayeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_11.jpg"
+        },
+        {
+            "id": "MÜZ_012",
+            "description": "Türk halk müziği: Yöresel enstrümanlar ve türkülerin hikayeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_12.jpg"
+        },
+        {
+            "id": "MÜZ_013",
+            "description": "Türk halk müziği: Yöresel enstrümanlar ve türkülerin hikayeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_13.jpg"
+        },
+        {
+            "id": "MÜZ_014",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_14.jpg"
+        },
+        {
+            "id": "MÜZ_015",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_15.jpg"
+        },
+        {
+            "id": "MÜZ_016",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_16.jpg"
+        },
+        {
+            "id": "MÜZ_017",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_17.jpg"
+        },
+        {
+            "id": "MÜZ_018",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_18.jpg"
+        },
+        {
+            "id": "MÜZ_019",
+            "description": "Türk halk müziği: Yöresel enstrümanlar ve türkülerin hikayeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_19.jpg"
+        },
+        {
+            "id": "MÜZ_020",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_20.jpg"
+        },
+        {
+            "id": "MÜZ_021",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_21.jpg"
+        },
+        {
+            "id": "MÜZ_022",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_22.jpg"
+        },
+        {
+            "id": "MÜZ_023",
+            "description": "Türk halk müziği: Yöresel enstrümanlar ve türkülerin hikayeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_23.jpg"
+        },
+        {
+            "id": "MÜZ_024",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_24.jpg"
+        },
+        {
+            "id": "MÜZ_025",
+            "description": "Türk halk müziği: Yöresel enstrümanlar ve türkülerin hikayeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_25.jpg"
+        },
+        {
+            "id": "MÜZ_026",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_26.jpg"
+        },
+        {
+            "id": "MÜZ_027",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_27.jpg"
+        },
+        {
+            "id": "MÜZ_028",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_28.jpg"
+        },
+        {
+            "id": "MÜZ_029",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_29.jpg"
+        },
+        {
+            "id": "MÜZ_030",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_30.jpg"
+        },
+        {
+            "id": "MÜZ_031",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_31.jpg"
+        },
+        {
+            "id": "MÜZ_032",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_32.jpg"
+        },
+        {
+            "id": "MÜZ_033",
+            "description": "Türk halk müziği: Yöresel enstrümanlar ve türkülerin hikayeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_33.jpg"
+        },
+        {
+            "id": "MÜZ_034",
+            "description": "Türk halk müziği: Yöresel enstrümanlar ve türkülerin hikayeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_34.jpg"
+        },
+        {
+            "id": "MÜZ_035",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_35.jpg"
+        },
+        {
+            "id": "MÜZ_036",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_36.jpg"
+        },
+        {
+            "id": "MÜZ_037",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_37.jpg"
+        },
+        {
+            "id": "MÜZ_038",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_38.jpg"
+        },
+        {
+            "id": "MÜZ_039",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_39.jpg"
+        },
+        {
+            "id": "MÜZ_040",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_40.jpg"
+        },
+        {
+            "id": "MÜZ_041",
+            "description": "Türk halk müziği: Yöresel enstrümanlar ve türkülerin hikayeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_41.jpg"
+        },
+        {
+            "id": "MÜZ_042",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_42.jpg"
+        },
+        {
+            "id": "MÜZ_043",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_43.jpg"
+        },
+        {
+            "id": "MÜZ_044",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_44.jpg"
+        },
+        {
+            "id": "MÜZ_045",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_45.jpg"
+        },
+        {
+            "id": "MÜZ_046",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_46.jpg"
+        },
+        {
+            "id": "MÜZ_047",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_47.jpg"
+        },
+        {
+            "id": "MÜZ_048",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_48.jpg"
+        },
+        {
+            "id": "MÜZ_049",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_49.jpg"
+        },
+        {
+            "id": "MÜZ_050",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_50.jpg"
+        },
+        {
+            "id": "MÜZ_051",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_51.jpg"
+        },
+        {
+            "id": "MÜZ_052",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_52.jpg"
+        },
+        {
+            "id": "MÜZ_053",
+            "description": "Türk halk müziği: Yöresel enstrümanlar ve türkülerin hikayeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_53.jpg"
+        },
+        {
+            "id": "MÜZ_054",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_54.jpg"
+        },
+        {
+            "id": "MÜZ_055",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_55.jpg"
+        },
+        {
+            "id": "MÜZ_056",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_56.jpg"
+        },
+        {
+            "id": "MÜZ_057",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_57.jpg"
+        },
+        {
+            "id": "MÜZ_058",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_58.jpg"
+        },
+        {
+            "id": "MÜZ_059",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_59.jpg"
+        },
+        {
+            "id": "MÜZ_060",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_60.jpg"
+        },
+        {
+            "id": "MÜZ_061",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_61.jpg"
+        },
+        {
+            "id": "MÜZ_062",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_62.jpg"
+        },
+        {
+            "id": "MÜZ_063",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_63.jpg"
+        },
+        {
+            "id": "MÜZ_064",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_64.jpg"
+        },
+        {
+            "id": "MÜZ_065",
+            "description": "Türk halk müziği: Yöresel enstrümanlar ve türkülerin hikayeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_65.jpg"
+        },
+        {
+            "id": "MÜZ_066",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_66.jpg"
+        },
+        {
+            "id": "MÜZ_067",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_67.jpg"
+        },
+        {
+            "id": "MÜZ_068",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_68.jpg"
+        },
+        {
+            "id": "MÜZ_069",
+            "description": "Türk halk müziği: Yöresel enstrümanlar ve türkülerin hikayeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_69.jpg"
+        },
+        {
+            "id": "MÜZ_070",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_70.jpg"
+        },
+        {
+            "id": "MÜZ_071",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_71.jpg"
+        },
+        {
+            "id": "MÜZ_072",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_72.jpg"
+        },
+        {
+            "id": "MÜZ_073",
+            "description": "Türk halk müziği: Yöresel enstrümanlar ve türkülerin hikayeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_73.jpg"
+        },
+        {
+            "id": "MÜZ_074",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_74.jpg"
+        },
+        {
+            "id": "MÜZ_075",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_75.jpg"
+        },
+        {
+            "id": "MÜZ_076",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_76.jpg"
+        },
+        {
+            "id": "MÜZ_077",
+            "description": "Türk halk müziği: Yöresel enstrümanlar ve türkülerin hikayeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_77.jpg"
+        },
+        {
+            "id": "MÜZ_078",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_78.jpg"
+        },
+        {
+            "id": "MÜZ_079",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_79.jpg"
+        },
+        {
+            "id": "MÜZ_080",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_80.jpg"
+        },
+        {
+            "id": "MÜZ_081",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_81.jpg"
+        },
+        {
+            "id": "MÜZ_082",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_82.jpg"
+        },
+        {
+            "id": "MÜZ_083",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_83.jpg"
+        },
+        {
+            "id": "MÜZ_084",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_84.jpg"
+        },
+        {
+            "id": "MÜZ_085",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_85.jpg"
+        },
+        {
+            "id": "MÜZ_086",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_86.jpg"
+        },
+        {
+            "id": "MÜZ_087",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_87.jpg"
+        },
+        {
+            "id": "MÜZ_088",
+            "description": "En iyi 10 gitar virtüözü ve müziğe katkıları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_88.jpg"
+        },
+        {
+            "id": "MÜZ_089",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_89.jpg"
+        },
+        {
+            "id": "MÜZ_090",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_90.jpg"
+        },
+        {
+            "id": "MÜZ_091",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_91.jpg"
+        },
+        {
+            "id": "MÜZ_092",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_92.jpg"
+        },
+        {
+            "id": "MÜZ_093",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_93.jpg"
+        },
+        {
+            "id": "MÜZ_094",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_94.jpg"
+        },
+        {
+            "id": "MÜZ_095",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_95.jpg"
+        },
+        {
+            "id": "MÜZ_096",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_96.jpg"
+        },
+        {
+            "id": "MÜZ_097",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_97.jpg"
+        },
+        {
+            "id": "MÜZ_098",
+            "description": "Müzik prodüksiyonu: Ev stüdyosu kurmak için temel ekipmanlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_98.jpg"
+        },
+        {
+            "id": "MÜZ_099",
+            "description": "Klasik müzik bestecileri: Mozart, Beethoven ve Bach'ın eserlerinin analizi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_99.jpg"
+        },
+        {
+            "id": "MÜZ_100",
+            "description": "Müzik teorisi: Akor progressionları ve duygusal etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/muzik_100.jpg"
+        }
+    ]
+}

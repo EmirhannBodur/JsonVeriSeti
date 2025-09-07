@@ -1,0 +1,507 @@
+{
+    "kategori": "🔍 Fotoğrafçılık",
+    "olusturulma_tarihi": "2025-09-06 19:37:30",
+    "veri_sayisi": 100,
+    "veriler": [
+        {
+            "id": "FOT_001",
+            "description": "Siyah beyaz fotoğrafçılık: Duyguları renksiz ama güçlü bir şekilde ifade etme sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_1.jpg"
+        },
+        {
+            "id": "FOT_002",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_2.jpg"
+        },
+        {
+            "id": "FOT_003",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_3.jpg"
+        },
+        {
+            "id": "FOT_004",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_4.jpg"
+        },
+        {
+            "id": "FOT_005",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_5.jpg"
+        },
+        {
+            "id": "FOT_006",
+            "description": "Doğanın en güzel anlarını ölümsüzleştirmek için fotoğraf sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_6.jpg"
+        },
+        {
+            "id": "FOT_007",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_7.jpg"
+        },
+        {
+            "id": "FOT_008",
+            "description": "Siyah beyaz fotoğrafçılık: Duyguları renksiz ama güçlü bir şekilde ifade etme sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_8.jpg"
+        },
+        {
+            "id": "FOT_009",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_9.jpg"
+        },
+        {
+            "id": "FOT_010",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_10.jpg"
+        },
+        {
+            "id": "FOT_011",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_11.jpg"
+        },
+        {
+            "id": "FOT_012",
+            "description": "Doğanın en güzel anlarını ölümsüzleştirmek için fotoğraf sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_12.jpg"
+        },
+        {
+            "id": "FOT_013",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_13.jpg"
+        },
+        {
+            "id": "FOT_014",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_14.jpg"
+        },
+        {
+            "id": "FOT_015",
+            "description": "Doğanın en güzel anlarını ölümsüzleştirmek için fotoğraf sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_15.jpg"
+        },
+        {
+            "id": "FOT_016",
+            "description": "Siyah beyaz fotoğrafçılık: Duyguları renksiz ama güçlü bir şekilde ifade etme sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_16.jpg"
+        },
+        {
+            "id": "FOT_017",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_17.jpg"
+        },
+        {
+            "id": "FOT_018",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_18.jpg"
+        },
+        {
+            "id": "FOT_019",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_19.jpg"
+        },
+        {
+            "id": "FOT_020",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_20.jpg"
+        },
+        {
+            "id": "FOT_021",
+            "description": "Siyah beyaz fotoğrafçılık: Duyguları renksiz ama güçlü bir şekilde ifade etme sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_21.jpg"
+        },
+        {
+            "id": "FOT_022",
+            "description": "Siyah beyaz fotoğrafçılık: Duyguları renksiz ama güçlü bir şekilde ifade etme sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_22.jpg"
+        },
+        {
+            "id": "FOT_023",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_23.jpg"
+        },
+        {
+            "id": "FOT_024",
+            "description": "Siyah beyaz fotoğrafçılık: Duyguları renksiz ama güçlü bir şekilde ifade etme sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_24.jpg"
+        },
+        {
+            "id": "FOT_025",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_25.jpg"
+        },
+        {
+            "id": "FOT_026",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_26.jpg"
+        },
+        {
+            "id": "FOT_027",
+            "description": "Doğanın en güzel anlarını ölümsüzleştirmek için fotoğraf sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_27.jpg"
+        },
+        {
+            "id": "FOT_028",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_28.jpg"
+        },
+        {
+            "id": "FOT_029",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_29.jpg"
+        },
+        {
+            "id": "FOT_030",
+            "description": "Doğanın en güzel anlarını ölümsüzleştirmek için fotoğraf sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_30.jpg"
+        },
+        {
+            "id": "FOT_031",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_31.jpg"
+        },
+        {
+            "id": "FOT_032",
+            "description": "Doğanın en güzel anlarını ölümsüzleştirmek için fotoğraf sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_32.jpg"
+        },
+        {
+            "id": "FOT_033",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_33.jpg"
+        },
+        {
+            "id": "FOT_034",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_34.jpg"
+        },
+        {
+            "id": "FOT_035",
+            "description": "Siyah beyaz fotoğrafçılık: Duyguları renksiz ama güçlü bir şekilde ifade etme sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_35.jpg"
+        },
+        {
+            "id": "FOT_036",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_36.jpg"
+        },
+        {
+            "id": "FOT_037",
+            "description": "Siyah beyaz fotoğrafçılık: Duyguları renksiz ama güçlü bir şekilde ifade etme sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_37.jpg"
+        },
+        {
+            "id": "FOT_038",
+            "description": "Doğanın en güzel anlarını ölümsüzleştirmek için fotoğraf sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_38.jpg"
+        },
+        {
+            "id": "FOT_039",
+            "description": "Siyah beyaz fotoğrafçılık: Duyguları renksiz ama güçlü bir şekilde ifade etme sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_39.jpg"
+        },
+        {
+            "id": "FOT_040",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_40.jpg"
+        },
+        {
+            "id": "FOT_041",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_41.jpg"
+        },
+        {
+            "id": "FOT_042",
+            "description": "Doğanın en güzel anlarını ölümsüzleştirmek için fotoğraf sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_42.jpg"
+        },
+        {
+            "id": "FOT_043",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_43.jpg"
+        },
+        {
+            "id": "FOT_044",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_44.jpg"
+        },
+        {
+            "id": "FOT_045",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_45.jpg"
+        },
+        {
+            "id": "FOT_046",
+            "description": "Siyah beyaz fotoğrafçılık: Duyguları renksiz ama güçlü bir şekilde ifade etme sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_46.jpg"
+        },
+        {
+            "id": "FOT_047",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_47.jpg"
+        },
+        {
+            "id": "FOT_048",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_48.jpg"
+        },
+        {
+            "id": "FOT_049",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_49.jpg"
+        },
+        {
+            "id": "FOT_050",
+            "description": "Doğanın en güzel anlarını ölümsüzleştirmek için fotoğraf sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_50.jpg"
+        },
+        {
+            "id": "FOT_051",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_51.jpg"
+        },
+        {
+            "id": "FOT_052",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_52.jpg"
+        },
+        {
+            "id": "FOT_053",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_53.jpg"
+        },
+        {
+            "id": "FOT_054",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_54.jpg"
+        },
+        {
+            "id": "FOT_055",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_55.jpg"
+        },
+        {
+            "id": "FOT_056",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_56.jpg"
+        },
+        {
+            "id": "FOT_057",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_57.jpg"
+        },
+        {
+            "id": "FOT_058",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_58.jpg"
+        },
+        {
+            "id": "FOT_059",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_59.jpg"
+        },
+        {
+            "id": "FOT_060",
+            "description": "Siyah beyaz fotoğrafçılık: Duyguları renksiz ama güçlü bir şekilde ifade etme sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_60.jpg"
+        },
+        {
+            "id": "FOT_061",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_61.jpg"
+        },
+        {
+            "id": "FOT_062",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_62.jpg"
+        },
+        {
+            "id": "FOT_063",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_63.jpg"
+        },
+        {
+            "id": "FOT_064",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_64.jpg"
+        },
+        {
+            "id": "FOT_065",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_65.jpg"
+        },
+        {
+            "id": "FOT_066",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_66.jpg"
+        },
+        {
+            "id": "FOT_067",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_67.jpg"
+        },
+        {
+            "id": "FOT_068",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_68.jpg"
+        },
+        {
+            "id": "FOT_069",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_69.jpg"
+        },
+        {
+            "id": "FOT_070",
+            "description": "Siyah beyaz fotoğrafçılık: Duyguları renksiz ama güçlü bir şekilde ifade etme sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_70.jpg"
+        },
+        {
+            "id": "FOT_071",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_71.jpg"
+        },
+        {
+            "id": "FOT_072",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_72.jpg"
+        },
+        {
+            "id": "FOT_073",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_73.jpg"
+        },
+        {
+            "id": "FOT_074",
+            "description": "Doğanın en güzel anlarını ölümsüzleştirmek için fotoğraf sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_74.jpg"
+        },
+        {
+            "id": "FOT_075",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_75.jpg"
+        },
+        {
+            "id": "FOT_076",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_76.jpg"
+        },
+        {
+            "id": "FOT_077",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_77.jpg"
+        },
+        {
+            "id": "FOT_078",
+            "description": "Doğanın en güzel anlarını ölümsüzleştirmek için fotoğraf sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_78.jpg"
+        },
+        {
+            "id": "FOT_079",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_79.jpg"
+        },
+        {
+            "id": "FOT_080",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_80.jpg"
+        },
+        {
+            "id": "FOT_081",
+            "description": "Doğanın en güzel anlarını ölümsüzleştirmek için fotoğraf sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_81.jpg"
+        },
+        {
+            "id": "FOT_082",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_82.jpg"
+        },
+        {
+            "id": "FOT_083",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_83.jpg"
+        },
+        {
+            "id": "FOT_084",
+            "description": "Siyah beyaz fotoğrafçılık: Duyguları renksiz ama güçlü bir şekilde ifade etme sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_84.jpg"
+        },
+        {
+            "id": "FOT_085",
+            "description": "Doğanın en güzel anlarını ölümsüzleştirmek için fotoğraf sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_85.jpg"
+        },
+        {
+            "id": "FOT_086",
+            "description": "Siyah beyaz fotoğrafçılık: Duyguları renksiz ama güçlü bir şekilde ifade etme sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_86.jpg"
+        },
+        {
+            "id": "FOT_087",
+            "description": "Siyah beyaz fotoğrafçılık: Duyguları renksiz ama güçlü bir şekilde ifade etme sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_87.jpg"
+        },
+        {
+            "id": "FOT_088",
+            "description": "Doğanın en güzel anlarını ölümsüzleştirmek için fotoğraf sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_88.jpg"
+        },
+        {
+            "id": "FOT_089",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_89.jpg"
+        },
+        {
+            "id": "FOT_090",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_90.jpg"
+        },
+        {
+            "id": "FOT_091",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_91.jpg"
+        },
+        {
+            "id": "FOT_092",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_92.jpg"
+        },
+        {
+            "id": "FOT_093",
+            "description": "Siyah beyaz fotoğrafçılık: Duyguları renksiz ama güçlü bir şekilde ifade etme sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_93.jpg"
+        },
+        {
+            "id": "FOT_094",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_94.jpg"
+        },
+        {
+            "id": "FOT_095",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_95.jpg"
+        },
+        {
+            "id": "FOT_096",
+            "description": "Manzara fotoğrafçılığı için en iyi lens seçenekleri ve teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_96.jpg"
+        },
+        {
+            "id": "FOT_097",
+            "description": "Doğanın en güzel anlarını ölümsüzleştirmek için fotoğraf sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_97.jpg"
+        },
+        {
+            "id": "FOT_098",
+            "description": "Portre fotoğrafçılığında ışık ve gölge oyunlarının ustaca kullanımı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_98.jpg"
+        },
+        {
+            "id": "FOT_099",
+            "description": "Gece fotoğrafçılığı için ipuçları ve uzun pozlama teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_99.jpg"
+        },
+        {
+            "id": "FOT_100",
+            "description": "Doğanın en güzel anlarını ölümsüzleştirmek için fotoğraf sanatı.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/foto_100.jpg"
+        }
+    ]
+}
