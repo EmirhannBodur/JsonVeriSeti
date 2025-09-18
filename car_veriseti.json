@@ -1,0 +1,507 @@
+{
+    "kategori": "🚗 Arabalar",
+    "olusturulma_tarihi": "2025-09-10 16:20:55",
+    "veri_sayisi": 100,
+    "veriler": [
+        {
+            "id": "ARA_001",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_1.jpg"
+        },
+        {
+            "id": "ARA_002",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_2.jpg"
+        },
+        {
+            "id": "ARA_003",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_3.jpg"
+        },
+        {
+            "id": "ARA_004",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_4.jpg"
+        },
+        {
+            "id": "ARA_005",
+            "description": "Otonom sürüş teknolojisi: Kendi kendine giden arabaların geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_5.jpg"
+        },
+        {
+            "id": "ARA_006",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_6.jpg"
+        },
+        {
+            "id": "ARA_007",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_7.jpg"
+        },
+        {
+            "id": "ARA_008",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_8.jpg"
+        },
+        {
+            "id": "ARA_009",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_9.jpg"
+        },
+        {
+            "id": "ARA_010",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_10.jpg"
+        },
+        {
+            "id": "ARA_011",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_11.jpg"
+        },
+        {
+            "id": "ARA_012",
+            "description": "Otonom sürüş teknolojisi: Kendi kendine giden arabaların geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_12.jpg"
+        },
+        {
+            "id": "ARA_013",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_13.jpg"
+        },
+        {
+            "id": "ARA_014",
+            "description": "Otonom sürüş teknolojisi: Kendi kendine giden arabaların geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_14.jpg"
+        },
+        {
+            "id": "ARA_015",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_15.jpg"
+        },
+        {
+            "id": "ARA_016",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_16.jpg"
+        },
+        {
+            "id": "ARA_017",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_17.jpg"
+        },
+        {
+            "id": "ARA_018",
+            "description": "Otonom sürüş teknolojisi: Kendi kendine giden arabaların geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_18.jpg"
+        },
+        {
+            "id": "ARA_019",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_19.jpg"
+        },
+        {
+            "id": "ARA_020",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_20.jpg"
+        },
+        {
+            "id": "ARA_021",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_21.jpg"
+        },
+        {
+            "id": "ARA_022",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_22.jpg"
+        },
+        {
+            "id": "ARA_023",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_23.jpg"
+        },
+        {
+            "id": "ARA_024",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_24.jpg"
+        },
+        {
+            "id": "ARA_025",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_25.jpg"
+        },
+        {
+            "id": "ARA_026",
+            "description": "Otonom sürüş teknolojisi: Kendi kendine giden arabaların geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_26.jpg"
+        },
+        {
+            "id": "ARA_027",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_27.jpg"
+        },
+        {
+            "id": "ARA_028",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_28.jpg"
+        },
+        {
+            "id": "ARA_029",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_29.jpg"
+        },
+        {
+            "id": "ARA_030",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_30.jpg"
+        },
+        {
+            "id": "ARA_031",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_31.jpg"
+        },
+        {
+            "id": "ARA_032",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_32.jpg"
+        },
+        {
+            "id": "ARA_033",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_33.jpg"
+        },
+        {
+            "id": "ARA_034",
+            "description": "Otonom sürüş teknolojisi: Kendi kendine giden arabaların geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_34.jpg"
+        },
+        {
+            "id": "ARA_035",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_35.jpg"
+        },
+        {
+            "id": "ARA_036",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_36.jpg"
+        },
+        {
+            "id": "ARA_037",
+            "description": "Otonom sürüş teknolojisi: Kendi kendine giden arabaların geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_37.jpg"
+        },
+        {
+            "id": "ARA_038",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_38.jpg"
+        },
+        {
+            "id": "ARA_039",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_40.jpg"
+        },
+        {
+            "id": "ARA_040",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_39.jpg"
+        },
+        {
+            "id": "ARA_041",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_41.jpg"
+        },
+        {
+            "id": "ARA_042",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_42.jpg"
+        },
+        {
+            "id": "ARA_043",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_43.jpg"
+        },
+        {
+            "id": "ARA_044",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_44.jpg"
+        },
+        {
+            "id": "ARA_045",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_45.jpg"
+        },
+        {
+            "id": "ARA_046",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_46.jpg"
+        },
+        {
+            "id": "ARA_047",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_47.jpg"
+        },
+        {
+            "id": "ARA_048",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_48.jpg"
+        },
+        {
+            "id": "ARA_049",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_49.jpg"
+        },
+        {
+            "id": "ARA_050",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_50.jpg"
+        },
+        {
+            "id": "ARA_051",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_51.jpg"
+        },
+        {
+            "id": "ARA_052",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_52.jpg"
+        },
+        {
+            "id": "ARA_053",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_53.jpg"
+        },
+        {
+            "id": "ARA_054",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_54.jpg"
+        },
+        {
+            "id": "ARA_055",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_55.jpg"
+        },
+        {
+            "id": "ARA_056",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_56.jpg"
+        },
+        {
+            "id": "ARA_057",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_57.jpg"
+        },
+        {
+            "id": "ARA_058",
+            "description": "Otonom sürüş teknolojisi: Kendi kendine giden arabaların geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_58.jpg"
+        },
+        {
+            "id": "ARA_059",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_59.jpg"
+        },
+        {
+            "id": "ARA_060",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_60.jpg"
+        },
+        {
+            "id": "ARA_061",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_61.jpg"
+        },
+        {
+            "id": "ARA_062",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_62.jpg"
+        },
+        {
+            "id": "ARA_063",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_63.jpg"
+        },
+        {
+            "id": "ARA_064",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_64.jpg"
+        },
+        {
+            "id": "ARA_065",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_65.jpg"
+        },
+        {
+            "id": "ARA_066",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_66.jpg"
+        },
+        {
+            "id": "ARA_067",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_67.jpg"
+        },
+        {
+            "id": "ARA_068",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_68.jpg"
+        },
+        {
+            "id": "ARA_069",
+            "description": "Otonom sürüş teknolojisi: Kendi kendine giden arabaların geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_69.jpg"
+        },
+        {
+            "id": "ARA_070",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_70.jpg"
+        },
+        {
+            "id": "ARA_071",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_71.jpg"
+        },
+        {
+            "id": "ARA_072",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_72.jpg"
+        },
+        {
+            "id": "ARA_073",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_73.jpg"
+        },
+        {
+            "id": "ARA_074",
+            "description": "Otonom sürüş teknolojisi: Kendi kendine giden arabaların geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_74.jpg"
+        },
+        {
+            "id": "ARA_075",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_75.jpg"
+        },
+        {
+            "id": "ARA_076",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_76.jpg"
+        },
+        {
+            "id": "ARA_077",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_77.jpg"
+        },
+        {
+            "id": "ARA_078",
+            "description": "Otonom sürüş teknolojisi: Kendi kendine giden arabaların geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_78.jpg"
+        },
+        {
+            "id": "ARA_079",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_79.jpg"
+        },
+        {
+            "id": "ARA_080",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_80.jpg"
+        },
+        {
+            "id": "ARA_081",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_81.jpg"
+        },
+        {
+            "id": "ARA_082",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_82.jpg"
+        },
+        {
+            "id": "ARA_083",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_83.jpg"
+        },
+        {
+            "id": "ARA_084",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_84.jpg"
+        },
+        {
+            "id": "ARA_085",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_85.jpg"
+        },
+        {
+            "id": "ARA_086",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_86.jpg"
+        },
+        {
+            "id": "ARA_087",
+            "description": "Otonom sürüş teknolojisi: Kendi kendine giden arabaların geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_87.jpg"
+        },
+        {
+            "id": "ARA_088",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_88.jpg"
+        },
+        {
+            "id": "ARA_089",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_89.jpg"
+        },
+        {
+            "id": "ARA_090",
+            "description": "Otonom sürüş teknolojisi: Kendi kendine giden arabaların geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_90.jpg"
+        },
+        {
+            "id": "ARA_091",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_91.jpg"
+        },
+        {
+            "id": "ARA_092",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_92.jpg"
+        },
+        {
+            "id": "ARA_093",
+            "description": "Otonom sürüş teknolojisi: Kendi kendine giden arabaların geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_93.jpg"
+        },
+        {
+            "id": "ARA_094",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_94.jpg"
+        },
+        {
+            "id": "ARA_095",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_95.jpg"
+        },
+        {
+            "id": "ARA_096",
+            "description": "Otomobil yarışları: Formula 1 teknolojisinin günlük araçlara etkisi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_96.jpg"
+        },
+        {
+            "id": "ARA_097",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_97.jpg"
+        },
+        {
+            "id": "ARA_098",
+            "description": "Klasik otomobil restorasyonu: Eski günlerin ihtişamını geri getirmek.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_98.jpg"
+        },
+        {
+            "id": "ARA_099",
+            "description": "Elektrikli araçlar: Geleceğin otomobil teknolojisi ve şarj istasyonları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_99.jpg"
+        },
+        {
+            "id": "ARA_100",
+            "description": "Araba modifikasyonu: Performans artırıcı modüller ve görsel iyileştirmeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/car_100.jpg"
+        }
+    ]
+}

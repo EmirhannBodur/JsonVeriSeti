@@ -1,0 +1,507 @@
+{
+    "kategori": "📜 Tarih",
+    "olusturulma_tarihi": "2025-09-18 17:23:30",
+    "veri_sayisi": 100,
+    "veriler": [
+        {
+            "id": "TAR_001",
+            "description": "Orta Çağ: Kale mimarisi ve şövalyelik kültürü.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_1.jpg"
+        },
+        {
+            "id": "TAR_002",
+            "description": "Türkiye Cumhuriyeti'nin kuruluşu: Mustafa Kemal Atatürk'ün liderliği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_2.jpg"
+        },
+        {
+            "id": "TAR_003",
+            "description": "Tarih, sadece savaşlardan ve krallardan ibaret değildir; aynı zamanda sanat, bilim ve felsefenin gelişimini de kapsar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_3.jpg"
+        },
+        {
+            "id": "TAR_004",
+            "description": "Tarihi olaylar, bugünkü dünyamızın şekillenmesinde kilit rol oynamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_4.jpg"
+        },
+        {
+            "id": "TAR_005",
+            "description": "Tarihi olaylar, bugünkü dünyamızın şekillenmesinde kilit rol oynamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_5.jpg"
+        },
+        {
+            "id": "TAR_006",
+            "description": "Tarihi olaylar, bugünkü dünyamızın şekillenmesinde kilit rol oynamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_6.jpg"
+        },
+        {
+            "id": "TAR_007",
+            "description": "Osmanlı İmparatorluğu: İstanbul'un fethi ve dünya tarihine etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_7.jpg"
+        },
+        {
+            "id": "TAR_008",
+            "description": "Tarih, sadece savaşlardan ve krallardan ibaret değildir; aynı zamanda sanat, bilim ve felsefenin gelişimini de kapsar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_8.jpg"
+        },
+        {
+            "id": "TAR_009",
+            "description": "Geçmişi anlamak, geleceği daha bilinçli bir şekilde inşa etmemize yardımcı olur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_9.jpg"
+        },
+        {
+            "id": "TAR_010",
+            "description": "Medeniyetlerin yükselişi ve çöküşü, tarihin en önemli konularından biridir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_10.jpg"
+        },
+        {
+            "id": "TAR_011",
+            "description": "Antik Mısır'ın piramitleri, Roma İmparatorluğu'nun yolları ve Çin Seddi gibi yapılar, tarihin somut kanıtlarıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_11.jpg"
+        },
+        {
+            "id": "TAR_012",
+            "description": "Rönesans dönemi: Sanat, bilim ve felsefede yeniden doğuş.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_12.jpg"
+        },
+        {
+            "id": "TAR_013",
+            "description": "Medeniyetlerin yükselişi ve çöküşü, tarihin en önemli konularından biridir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_13.jpg"
+        },
+        {
+            "id": "TAR_014",
+            "description": "Türkiye Cumhuriyeti'nin kuruluşu: Mustafa Kemal Atatürk'ün liderliği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_14.jpg"
+        },
+        {
+            "id": "TAR_015",
+            "description": "Tarih, geçmişteki olayları, insanları ve medeniyetleri inceleyen bir bilim dalıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_15.jpg"
+        },
+        {
+            "id": "TAR_016",
+            "description": "Tarih, sadece savaşlardan ve krallardan ibaret değildir; aynı zamanda sanat, bilim ve felsefenin gelişimini de kapsar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_16.jpg"
+        },
+        {
+            "id": "TAR_017",
+            "description": "Geçmişin incelenmesi, bize insan davranışları ve toplumlar hakkında değerli dersler verir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_17.jpg"
+        },
+        {
+            "id": "TAR_018",
+            "description": "Tarih, geçmişteki olayları, insanları ve medeniyetleri inceleyen bir bilim dalıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_18.jpg"
+        },
+        {
+            "id": "TAR_019",
+            "description": "Antik Mısır: Piramitlerin inşası ve firavunların gizemli dünyası.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_19.jpg"
+        },
+        {
+            "id": "TAR_020",
+            "description": "Antik Mısır'ın piramitleri, Roma İmparatorluğu'nun yolları ve Çin Seddi gibi yapılar, tarihin somut kanıtlarıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_20.jpg"
+        },
+        {
+            "id": "TAR_021",
+            "description": "Medeniyetlerin yükselişi ve çöküşü, tarihin en önemli konularından biridir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_21.jpg"
+        },
+        {
+            "id": "TAR_022",
+            "description": "Antik Mısır'ın piramitleri, Roma İmparatorluğu'nun yolları ve Çin Seddi gibi yapılar, tarihin somut kanıtlarıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_22.jpg"
+        },
+        {
+            "id": "TAR_023",
+            "description": "Türkiye Cumhuriyeti'nin kuruluşu: Mustafa Kemal Atatürk'ün liderliği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_23.jpg"
+        },
+        {
+            "id": "TAR_024",
+            "description": "Tarih, geçmişteki olayları, insanları ve medeniyetleri inceleyen bir bilim dalıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_24.jpg"
+        },
+        {
+            "id": "TAR_025",
+            "description": "Geçmişi anlamak, geleceği daha bilinçli bir şekilde inşa etmemize yardımcı olur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_25.jpg"
+        },
+        {
+            "id": "TAR_026",
+            "description": "Orta Çağ: Kale mimarisi ve şövalyelik kültürü.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_26.jpg"
+        },
+        {
+            "id": "TAR_027",
+            "description": "Medeniyetlerin yükselişi ve çöküşü, tarihin en önemli konularından biridir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_27.jpg"
+        },
+        {
+            "id": "TAR_028",
+            "description": "Medeniyetlerin yükselişi ve çöküşü, tarihin en önemli konularından biridir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_28.jpg"
+        },
+        {
+            "id": "TAR_029",
+            "description": "Tarih, geçmişteki olayları, insanları ve medeniyetleri inceleyen bir bilim dalıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_29.jpg"
+        },
+        {
+            "id": "TAR_030",
+            "description": "Tarih, sadece savaşlardan ve krallardan ibaret değildir; aynı zamanda sanat, bilim ve felsefenin gelişimini de kapsar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_30.jpg"
+        },
+        {
+            "id": "TAR_031",
+            "description": "Geçmişin incelenmesi, bize insan davranışları ve toplumlar hakkında değerli dersler verir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_31.jpg"
+        },
+        {
+            "id": "TAR_032",
+            "description": "Türkiye Cumhuriyeti'nin kuruluşu: Mustafa Kemal Atatürk'ün liderliği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_32.jpg"
+        },
+        {
+            "id": "TAR_033",
+            "description": "Geçmişin incelenmesi, bize insan davranışları ve toplumlar hakkında değerli dersler verir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_33.jpg"
+        },
+        {
+            "id": "TAR_034",
+            "description": "Geçmişi anlamak, geleceği daha bilinçli bir şekilde inşa etmemize yardımcı olur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_34.jpg"
+        },
+        {
+            "id": "TAR_035",
+            "description": "Geçmişi anlamak, geleceği daha bilinçli bir şekilde inşa etmemize yardımcı olur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_35.jpg"
+        },
+        {
+            "id": "TAR_036",
+            "description": "Tarih, sadece savaşlardan ve krallardan ibaret değildir; aynı zamanda sanat, bilim ve felsefenin gelişimini de kapsar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_36.jpg"
+        },
+        {
+            "id": "TAR_037",
+            "description": "Orta Çağ: Kale mimarisi ve şövalyelik kültürü.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_37.jpg"
+        },
+        {
+            "id": "TAR_038",
+            "description": "Tarihi olaylar, bugünkü dünyamızın şekillenmesinde kilit rol oynamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_38.jpg"
+        },
+        {
+            "id": "TAR_039",
+            "description": "Rönesans dönemi: Sanat, bilim ve felsefede yeniden doğuş.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_39.jpg"
+        },
+        {
+            "id": "TAR_040",
+            "description": "Orta Çağ: Kale mimarisi ve şövalyelik kültürü.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_40.jpg"
+        },
+        {
+            "id": "TAR_041",
+            "description": "Geçmişi anlamak, geleceği daha bilinçli bir şekilde inşa etmemize yardımcı olur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_41.jpg"
+        },
+        {
+            "id": "TAR_042",
+            "description": "Tarihi olaylar, bugünkü dünyamızın şekillenmesinde kilit rol oynamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_42.jpg"
+        },
+        {
+            "id": "TAR_043",
+            "description": "Tarih, geçmişteki olayları, insanları ve medeniyetleri inceleyen bir bilim dalıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_43.jpg"
+        },
+        {
+            "id": "TAR_044",
+            "description": "Tarihi olaylar, bugünkü dünyamızın şekillenmesinde kilit rol oynamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_44.jpg"
+        },
+        {
+            "id": "TAR_045",
+            "description": "Geçmişin incelenmesi, bize insan davranışları ve toplumlar hakkında değerli dersler verir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_45.jpg"
+        },
+        {
+            "id": "TAR_046",
+            "description": "Tarih, geçmişteki olayları, insanları ve medeniyetleri inceleyen bir bilim dalıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_46.jpg"
+        },
+        {
+            "id": "TAR_047",
+            "description": "Türkiye Cumhuriyeti'nin kuruluşu: Mustafa Kemal Atatürk'ün liderliği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_47.jpg"
+        },
+        {
+            "id": "TAR_048",
+            "description": "Osmanlı İmparatorluğu: İstanbul'un fethi ve dünya tarihine etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_48.jpg"
+        },
+        {
+            "id": "TAR_049",
+            "description": "Antik Mısır: Piramitlerin inşası ve firavunların gizemli dünyası.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_49.jpg"
+        },
+        {
+            "id": "TAR_050",
+            "description": "Tarihi olaylar, bugünkü dünyamızın şekillenmesinde kilit rol oynamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_50.jpg"
+        },
+        {
+            "id": "TAR_051",
+            "description": "Tarih, geçmişteki olayları, insanları ve medeniyetleri inceleyen bir bilim dalıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_51.jpg"
+        },
+        {
+            "id": "TAR_052",
+            "description": "Geçmişi anlamak, geleceği daha bilinçli bir şekilde inşa etmemize yardımcı olur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_52.jpg"
+        },
+        {
+            "id": "TAR_053",
+            "description": "Geçmişin incelenmesi, bize insan davranışları ve toplumlar hakkında değerli dersler verir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_53.jpg"
+        },
+        {
+            "id": "TAR_054",
+            "description": "Geçmişi anlamak, geleceği daha bilinçli bir şekilde inşa etmemize yardımcı olur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_54.jpg"
+        },
+        {
+            "id": "TAR_055",
+            "description": "Rönesans dönemi: Sanat, bilim ve felsefede yeniden doğuş.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_55.jpg"
+        },
+        {
+            "id": "TAR_056",
+            "description": "Rönesans dönemi: Sanat, bilim ve felsefede yeniden doğuş.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_56.jpg"
+        },
+        {
+            "id": "TAR_057",
+            "description": "Geçmişi anlamak, geleceği daha bilinçli bir şekilde inşa etmemize yardımcı olur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_57.jpg"
+        },
+        {
+            "id": "TAR_058",
+            "description": "Geçmişin incelenmesi, bize insan davranışları ve toplumlar hakkında değerli dersler verir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_58.jpg"
+        },
+        {
+            "id": "TAR_059",
+            "description": "Antik Mısır: Piramitlerin inşası ve firavunların gizemli dünyası.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_59.jpg"
+        },
+        {
+            "id": "TAR_060",
+            "description": "Geçmişi anlamak, geleceği daha bilinçli bir şekilde inşa etmemize yardımcı olur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_60.jpg"
+        },
+        {
+            "id": "TAR_061",
+            "description": "Tarih, sadece savaşlardan ve krallardan ibaret değildir; aynı zamanda sanat, bilim ve felsefenin gelişimini de kapsar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_61.jpg"
+        },
+        {
+            "id": "TAR_062",
+            "description": "Antik Mısır: Piramitlerin inşası ve firavunların gizemli dünyası.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_62.jpg"
+        },
+        {
+            "id": "TAR_063",
+            "description": "Orta Çağ: Kale mimarisi ve şövalyelik kültürü.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_63.jpg"
+        },
+        {
+            "id": "TAR_064",
+            "description": "Orta Çağ: Kale mimarisi ve şövalyelik kültürü.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_64.jpg"
+        },
+        {
+            "id": "TAR_065",
+            "description": "Antik Mısır'ın piramitleri, Roma İmparatorluğu'nun yolları ve Çin Seddi gibi yapılar, tarihin somut kanıtlarıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_65.jpg"
+        },
+        {
+            "id": "TAR_066",
+            "description": "Orta Çağ: Kale mimarisi ve şövalyelik kültürü.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_66.jpg"
+        },
+        {
+            "id": "TAR_067",
+            "description": "Antik Mısır'ın piramitleri, Roma İmparatorluğu'nun yolları ve Çin Seddi gibi yapılar, tarihin somut kanıtlarıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_67.jpg"
+        },
+        {
+            "id": "TAR_068",
+            "description": "Rönesans dönemi: Sanat, bilim ve felsefede yeniden doğuş.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_68.jpg"
+        },
+        {
+            "id": "TAR_069",
+            "description": "Antik Mısır: Piramitlerin inşası ve firavunların gizemli dünyası.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_69.jpg"
+        },
+        {
+            "id": "TAR_070",
+            "description": "Tarihi olaylar, bugünkü dünyamızın şekillenmesinde kilit rol oynamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_70.jpg"
+        },
+        {
+            "id": "TAR_071",
+            "description": "Antik Mısır'ın piramitleri, Roma İmparatorluğu'nun yolları ve Çin Seddi gibi yapılar, tarihin somut kanıtlarıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_71.jpg"
+        },
+        {
+            "id": "TAR_072",
+            "description": "Geçmişi anlamak, geleceği daha bilinçli bir şekilde inşa etmemize yardımcı olur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_72.jpg"
+        },
+        {
+            "id": "TAR_073",
+            "description": "Tarih, sadece savaşlardan ve krallardan ibaret değildir; aynı zamanda sanat, bilim ve felsefenin gelişimini de kapsar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_73.jpg"
+        },
+        {
+            "id": "TAR_074",
+            "description": "Geçmişi anlamak, geleceği daha bilinçli bir şekilde inşa etmemize yardımcı olur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_74.jpg"
+        },
+        {
+            "id": "TAR_075",
+            "description": "Geçmişin incelenmesi, bize insan davranışları ve toplumlar hakkında değerli dersler verir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_75.jpg"
+        },
+        {
+            "id": "TAR_076",
+            "description": "Antik Mısır'ın piramitleri, Roma İmparatorluğu'nun yolları ve Çin Seddi gibi yapılar, tarihin somut kanıtlarıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_76.jpg"
+        },
+        {
+            "id": "TAR_077",
+            "description": "Tarih, geçmişteki olayları, insanları ve medeniyetleri inceleyen bir bilim dalıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_77.jpg"
+        },
+        {
+            "id": "TAR_078",
+            "description": "Medeniyetlerin yükselişi ve çöküşü, tarihin en önemli konularından biridir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_78.jpg"
+        },
+        {
+            "id": "TAR_079",
+            "description": "Geçmişi anlamak, geleceği daha bilinçli bir şekilde inşa etmemize yardımcı olur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_79.jpg"
+        },
+        {
+            "id": "TAR_080",
+            "description": "Tarihi olaylar, bugünkü dünyamızın şekillenmesinde kilit rol oynamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_80.jpg"
+        },
+        {
+            "id": "TAR_081",
+            "description": "Türkiye Cumhuriyeti'nin kuruluşu: Mustafa Kemal Atatürk'ün liderliği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_81.jpg"
+        },
+        {
+            "id": "TAR_082",
+            "description": "Medeniyetlerin yükselişi ve çöküşü, tarihin en önemli konularından biridir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_82.jpg"
+        },
+        {
+            "id": "TAR_083",
+            "description": "Osmanlı İmparatorluğu: İstanbul'un fethi ve dünya tarihine etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_83.jpg"
+        },
+        {
+            "id": "TAR_084",
+            "description": "Tarihi olaylar, bugünkü dünyamızın şekillenmesinde kilit rol oynamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_84.jpg"
+        },
+        {
+            "id": "TAR_085",
+            "description": "Türkiye Cumhuriyeti'nin kuruluşu: Mustafa Kemal Atatürk'ün liderliği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_85.jpg"
+        },
+        {
+            "id": "TAR_086",
+            "description": "Antik Mısır'ın piramitleri, Roma İmparatorluğu'nun yolları ve Çin Seddi gibi yapılar, tarihin somut kanıtlarıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_86.jpg"
+        },
+        {
+            "id": "TAR_087",
+            "description": "Osmanlı İmparatorluğu: İstanbul'un fethi ve dünya tarihine etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_87.jpg"
+        },
+        {
+            "id": "TAR_088",
+            "description": "Tarih, geçmişteki olayları, insanları ve medeniyetleri inceleyen bir bilim dalıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_88.jpg"
+        },
+        {
+            "id": "TAR_089",
+            "description": "Türkiye Cumhuriyeti'nin kuruluşu: Mustafa Kemal Atatürk'ün liderliği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_90.jpg"
+        },
+        {
+            "id": "TAR_090",
+            "description": "Türkiye Cumhuriyeti'nin kuruluşu: Mustafa Kemal Atatürk'ün liderliği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_89.jpg"
+        },
+        {
+            "id": "TAR_091",
+            "description": "Tarihi olaylar, bugünkü dünyamızın şekillenmesinde kilit rol oynamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_91.jpg"
+        },
+        {
+            "id": "TAR_092",
+            "description": "Osmanlı İmparatorluğu: İstanbul'un fethi ve dünya tarihine etkileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_92.jpg"
+        },
+        {
+            "id": "TAR_093",
+            "description": "Tarihi olaylar, bugünkü dünyamızın şekillenmesinde kilit rol oynamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_93.jpg"
+        },
+        {
+            "id": "TAR_094",
+            "description": "Geçmişin incelenmesi, bize insan davranışları ve toplumlar hakkında değerli dersler verir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_94.jpg"
+        },
+        {
+            "id": "TAR_095",
+            "description": "Medeniyetlerin yükselişi ve çöküşü, tarihin en önemli konularından biridir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_95.jpg"
+        },
+        {
+            "id": "TAR_096",
+            "description": "Türkiye Cumhuriyeti'nin kuruluşu: Mustafa Kemal Atatürk'ün liderliği.",
+            "imageurl": "v"
+        },
+        {
+            "id": "TAR_097",
+            "description": "Tarih, sadece savaşlardan ve krallardan ibaret değildir; aynı zamanda sanat, bilim ve felsefenin gelişimini de kapsar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_97.jpg"
+        },
+        {
+            "id": "TAR_098",
+            "description": "Geçmişin incelenmesi, bize insan davranışları ve toplumlar hakkında değerli dersler verir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_98.jpg"
+        },
+        {
+            "id": "TAR_099",
+            "description": "Orta Çağ: Kale mimarisi ve şövalyelik kültürü.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_99.jpg"
+        },
+        {
+            "id": "TAR_100",
+            "description": "Geçmişin incelenmesi, bize insan davranışları ve toplumlar hakkında değerli dersler verir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/hist_100.jpg"
+        }
+    ]
+}
