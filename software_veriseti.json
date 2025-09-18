@@ -1,0 +1,507 @@
+{
+    "kategori": "⚡ Yazılım",
+    "olusturulma_tarihi": "2025-09-18 19:40:36",
+    "veri_sayisi": 100,
+    "veriler": [
+        {
+            "id": "YAZ_001",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_1.jpg"
+        },
+        {
+            "id": "YAZ_002",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_2.jpg"
+        },
+        {
+            "id": "YAZ_003",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_3.jpg"
+        },
+        {
+            "id": "YAZ_004",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_4.jpg"
+        },
+        {
+            "id": "YAZ_005",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_5.jpg"
+        },
+        {
+            "id": "YAZ_006",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_6.jpg"
+        },
+        {
+            "id": "YAZ_007",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_7.jpg"
+        },
+        {
+            "id": "YAZ_008",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_8.jpg"
+        },
+        {
+            "id": "YAZ_009",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_9.jpg"
+        },
+        {
+            "id": "YAZ_010",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_10.jpg"
+        },
+        {
+            "id": "YAZ_011",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_11.jpg"
+        },
+        {
+            "id": "YAZ_012",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_12.jpg"
+        },
+        {
+            "id": "YAZ_013",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_13.jpg"
+        },
+        {
+            "id": "YAZ_014",
+            "description": "Mobil uygulama geliştirme: iOS ve Android için en iyi framework'ler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_14.jpg"
+        },
+        {
+            "id": "YAZ_015",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_15.jpg"
+        },
+        {
+            "id": "YAZ_016",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_16.jpg"
+        },
+        {
+            "id": "YAZ_017",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_17.jpg"
+        },
+        {
+            "id": "YAZ_018",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_18.jpg"
+        },
+        {
+            "id": "YAZ_019",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_19.jpg"
+        },
+        {
+            "id": "YAZ_020",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_20.jpg"
+        },
+        {
+            "id": "YAZ_021",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_21.jpg"
+        },
+        {
+            "id": "YAZ_022",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_22.jpg"
+        },
+        {
+            "id": "YAZ_023",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_23.jpg"
+        },
+        {
+            "id": "YAZ_024",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_24.jpg"
+        },
+        {
+            "id": "YAZ_025",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_25.jpg"
+        },
+        {
+            "id": "YAZ_026",
+            "description": "Mobil uygulama geliştirme: iOS ve Android için en iyi framework'ler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_26.jpg"
+        },
+        {
+            "id": "YAZ_027",
+            "description": "Mobil uygulama geliştirme: iOS ve Android için en iyi framework'ler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_27.jpg"
+        },
+        {
+            "id": "YAZ_028",
+            "description": "Mobil uygulama geliştirme: iOS ve Android için en iyi framework'ler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_28.jpg"
+        },
+        {
+            "id": "YAZ_029",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_29.jpg"
+        },
+        {
+            "id": "YAZ_030",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_30.jpg"
+        },
+        {
+            "id": "YAZ_031",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_31.jpg"
+        },
+        {
+            "id": "YAZ_032",
+            "description": "Mobil uygulama geliştirme: iOS ve Android için en iyi framework'ler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_32.jpg"
+        },
+        {
+            "id": "YAZ_033",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_33.jpg"
+        },
+        {
+            "id": "YAZ_034",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_34.jpg"
+        },
+        {
+            "id": "YAZ_035",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_35.jpg"
+        },
+        {
+            "id": "YAZ_036",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_36.jpg"
+        },
+        {
+            "id": "YAZ_037",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_37.jpg"
+        },
+        {
+            "id": "YAZ_038",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_38.jpg"
+        },
+        {
+            "id": "YAZ_039",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_39.jpg"
+        },
+        {
+            "id": "YAZ_040",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_40.jpg"
+        },
+        {
+            "id": "YAZ_041",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_41.jpg"
+        },
+        {
+            "id": "YAZ_042",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_42.jpg"
+        },
+        {
+            "id": "YAZ_043",
+            "description": "Mobil uygulama geliştirme: iOS ve Android için en iyi framework'ler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_43.jpg"
+        },
+        {
+            "id": "YAZ_044",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_44.jpg"
+        },
+        {
+            "id": "YAZ_045",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_45.jpg"
+        },
+        {
+            "id": "YAZ_046",
+            "description": "Mobil uygulama geliştirme: iOS ve Android için en iyi framework'ler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_46.jpg"
+        },
+        {
+            "id": "YAZ_047",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_47.jpg"
+        },
+        {
+            "id": "YAZ_048",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_48.jpg"
+        },
+        {
+            "id": "YAZ_049",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_49.jpg"
+        },
+        {
+            "id": "YAZ_050",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_50.jpg"
+        },
+        {
+            "id": "YAZ_051",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_51.jpg"
+        },
+        {
+            "id": "YAZ_052",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_52.jpg"
+        },
+        {
+            "id": "YAZ_053",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_53.jpg"
+        },
+        {
+            "id": "YAZ_054",
+            "description": "Mobil uygulama geliştirme: iOS ve Android için en iyi framework'ler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_54.jpg"
+        },
+        {
+            "id": "YAZ_055",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_55.jpg"
+        },
+        {
+            "id": "YAZ_056",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_56.jpg"
+        },
+        {
+            "id": "YAZ_057",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_57.jpg"
+        },
+        {
+            "id": "YAZ_058",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_58.jpg"
+        },
+        {
+            "id": "YAZ_059",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_59.jpg"
+        },
+        {
+            "id": "YAZ_060",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_60.jpg"
+        },
+        {
+            "id": "YAZ_061",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_61.jpg"
+        },
+        {
+            "id": "YAZ_062",
+            "description": "Mobil uygulama geliştirme: iOS ve Android için en iyi framework'ler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_62.jpg"
+        },
+        {
+            "id": "YAZ_063",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_63.jpg"
+        },
+        {
+            "id": "YAZ_064",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_64.jpg"
+        },
+        {
+            "id": "YAZ_065",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_65.jpg"
+        },
+        {
+            "id": "YAZ_066",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_66.jpg"
+        },
+        {
+            "id": "YAZ_067",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_67.jpg"
+        },
+        {
+            "id": "YAZ_068",
+            "description": "Mobil uygulama geliştirme: iOS ve Android için en iyi framework'ler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_68.jpg"
+        },
+        {
+            "id": "YAZ_069",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_69.jpg"
+        },
+        {
+            "id": "YAZ_070",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_70.jpg"
+        },
+        {
+            "id": "YAZ_071",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_71.jpg"
+        },
+        {
+            "id": "YAZ_072",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_72.jpg"
+        },
+        {
+            "id": "YAZ_073",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_73.jpg"
+        },
+        {
+            "id": "YAZ_074",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_74.jpg"
+        },
+        {
+            "id": "YAZ_075",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_75.jpg"
+        },
+        {
+            "id": "YAZ_076",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_76.jpg"
+        },
+        {
+            "id": "YAZ_077",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_77.jpg"
+        },
+        {
+            "id": "YAZ_078",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_78.jpg"
+        },
+        {
+            "id": "YAZ_079",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_79.jpg"
+        },
+        {
+            "id": "YAZ_080",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_80.jpg"
+        },
+        {
+            "id": "YAZ_081",
+            "description": "Mobil uygulama geliştirme: iOS ve Android için en iyi framework'ler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_81.jpg"
+        },
+        {
+            "id": "YAZ_082",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_82.jpg"
+        },
+        {
+            "id": "YAZ_083",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_83.jpg"
+        },
+        {
+            "id": "YAZ_084",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_84.jpg"
+        },
+        {
+            "id": "YAZ_085",
+            "description": "Mobil uygulama geliştirme: iOS ve Android için en iyi framework'ler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_86.jpg"
+        },
+        {
+            "id": "YAZ_086",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_85.jpg"
+        },
+        {
+            "id": "YAZ_087",
+            "description": "Mobil uygulama geliştirme: iOS ve Android için en iyi framework'ler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_87.jpg"
+        },
+        {
+            "id": "YAZ_088",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_88.jpg"
+        },
+        {
+            "id": "YAZ_089",
+            "description": "Mobil uygulama geliştirme: iOS ve Android için en iyi framework'ler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_89.jpg"
+        },
+        {
+            "id": "YAZ_090",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_90.jpg"
+        },
+        {
+            "id": "YAZ_091",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_91.jpg"
+        },
+        {
+            "id": "YAZ_092",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_92.jpg"
+        },
+        {
+            "id": "YAZ_093",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_93.jpg"
+        },
+        {
+            "id": "YAZ_094",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_94.jpg"
+        },
+        {
+            "id": "YAZ_095",
+            "description": "Mobil uygulama geliştirme: iOS ve Android için en iyi framework'ler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_95.jpg"
+        },
+        {
+            "id": "YAZ_096",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_96.jpg"
+        },
+        {
+            "id": "YAZ_097",
+            "description": "Veri bilimi: Büyük veri analizi ve görselleştirme teknikleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_97.jpg"
+        },
+        {
+            "id": "YAZ_098",
+            "description": "Programlama dilleri: Python, JavaScript, Java ve C++ karşılaştırması.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_98.jpg"
+        },
+        {
+            "id": "YAZ_099",
+            "description": "Web geliştirme: Front-end ve back-end teknolojileri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_99.jpg"
+        },
+        {
+            "id": "YAZ_100",
+            "description": "Yapay zeka programlama: TensorFlow ve PyTorch kütüphaneleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/software_100.jpg"
+        }
+    ]
+}

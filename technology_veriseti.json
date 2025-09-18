@@ -1,0 +1,467 @@
+{
+    "kategori": "💻 Teknoloji",
+    "olusturulma_tarihi": "2025-09-18 19:24:47",
+    "veri_sayisi": 92,
+    "veriler": [
+        {
+            "id": "TEK_001",
+            "description": "Teknoloji, insan ihtiyaçlarını karşılamak için bilimsel bilgilerin sistemli bir şekilde uygulanmasıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_1.jpg"
+        },
+        {
+            "id": "TEK_002",
+            "description": "Kuantum bilgisayarlar: Klasik bilgisayarlardan farkları ve potansiyeli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_2.jpg"
+        },
+        {
+            "id": "TEK_003",
+            "description": "Robotik: Endüstri 4.0 ve üretimde otomasyonun geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_3.jpg"
+        },
+        {
+            "id": "TEK_004",
+            "description": "Yapay zekâ, makinelerin insan benzeri düşünme, öğrenme ve karar verme yetenekleri kazanmasını hedefler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_4.jpg"
+        },
+        {
+            "id": "TEK_005",
+            "description": "Yapay zekâ, makinelerin insan benzeri düşünme, öğrenme ve karar verme yetenekleri kazanmasını hedefler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_5.jpg"
+        },
+        {
+            "id": "TEK_006",
+            "description": "Biyoteknoloji: Gen düzenleme ve tıpta devrim yaratan buluşlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_6.jpg"
+        },
+        {
+            "id": "TEK_007",
+            "description": "Teknoloji, sadece araç değil; aynı zamanda toplumsal dönüşümün, iletişimin ve yaratıcılığın motorudur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_7.jpg"
+        },
+        {
+            "id": "TEK_008",
+            "description": "Kuantum bilgisayarlar: Klasik bilgisayarlardan farkları ve potansiyeli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_8.jpg"
+        },
+        {
+            "id": "TEK_009",
+            "description": "Nesnelerin İnterneti (IoT): Akıllı ev sistemleri ve otomasyon.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_9.jpg"
+        },
+        {
+            "id": "TEK_010",
+            "description": "Yapay zeka: Makine öğrenmesi ve derin öğrenme uygulamaları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_10.jpg"
+        },
+        {
+            "id": "TEK_011",
+            "description": "Kuantum bilgisayarlar: Klasik bilgisayarlardan farkları ve potansiyeli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_11.jpg"
+        },
+        {
+            "id": "TEK_012",
+            "description": "Teknoloji, insan ihtiyaçlarını karşılamak için bilimsel bilgilerin sistemli bir şekilde uygulanmasıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_12.jpg"
+        },
+        {
+            "id": "TEK_013",
+            "description": "Nesnelerin İnterneti (IoT): Akıllı ev sistemleri ve otomasyon.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_13.jpg"
+        },
+        {
+            "id": "TEK_014",
+            "description": "Nesnelerin İnterneti (IoT): Akıllı ev sistemleri ve otomasyon.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_14.jpg"
+        },
+        {
+            "id": "TEK_015",
+            "description": "Teknoloji, sadece araç değil; aynı zamanda toplumsal dönüşümün, iletişimin ve yaratıcılığın motorudur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_15.jpg"
+        },
+        {
+            "id": "TEK_016",
+            "description": "Web teknolojileri, internet üzerinden bilgi paylaşımını ve uygulama geliştirmeyi mümkün kılar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_16.jpg"
+        },
+        {
+            "id": "TEK_017",
+            "description": "Robotik: Endüstri 4.0 ve üretimde otomasyonun geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_17.jpg"
+        },
+        {
+            "id": "TEK_018",
+            "description": "UI/UX tasarımı, teknolojik ürünlerin kullanıcıyla kurduğu etkileşimi estetik ve işlevsel hale getirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_18.jpg"
+        },
+        {
+            "id": "TEK_019",
+            "description": "Teknoloji, insan ihtiyaçlarını karşılamak için bilimsel bilgilerin sistemli bir şekilde uygulanmasıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_19.jpg"
+        },
+        {
+            "id": "TEK_020",
+            "description": "Robotik: Endüstri 4.0 ve üretimde otomasyonun geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_20.jpg"
+        },
+        {
+            "id": "TEK_021",
+            "description": "Kuantum bilgisayarlar: Klasik bilgisayarlardan farkları ve potansiyeli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_21.jpg"
+        },
+        {
+            "id": "TEK_022",
+            "description": "Web teknolojileri, internet üzerinden bilgi paylaşımını ve uygulama geliştirmeyi mümkün kılar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_22.jpg"
+        },
+        {
+            "id": "TEK_023",
+            "description": "Teknoloji, sadece araç değil; aynı zamanda toplumsal dönüşümün, iletişimin ve yaratıcılığın motorudur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_23.jpg"
+        },
+        {
+            "id": "TEK_024",
+            "description": "Yapay zekâ, makinelerin insan benzeri düşünme, öğrenme ve karar verme yetenekleri kazanmasını hedefler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_24.jpg"
+        },
+        {
+            "id": "TEK_025",
+            "description": "API’ler, farklı yazılım sistemlerinin birbirleriyle iletişim kurmasını sağlayan arayüzlerdir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_25.jpg"
+        },
+        {
+            "id": "TEK_026",
+            "description": "Yapay zeka: Makine öğrenmesi ve derin öğrenme uygulamaları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_26.jpg"
+        },
+        {
+            "id": "TEK_027",
+            "description": "Mobil teknolojiler, kullanıcıların her yerden bilgiye erişmesini ve etkileşim kurmasını sağlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_27.jpg"
+        },
+        {
+            "id": "TEK_028",
+            "description": "Robotik: Endüstri 4.0 ve üretimde otomasyonun geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_28.jpg"
+        },
+        {
+            "id": "TEK_029",
+            "description": "Teknoloji, sadece araç değil; aynı zamanda toplumsal dönüşümün, iletişimin ve yaratıcılığın motorudur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_29.jpg"
+        },
+        {
+            "id": "TEK_030",
+            "description": "Mobil teknolojiler, kullanıcıların her yerden bilgiye erişmesini ve etkileşim kurmasını sağlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_30.jpg"
+        },
+        {
+            "id": "TEK_031",
+            "description": "Biyoteknoloji: Gen düzenleme ve tıpta devrim yaratan buluşlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_31.jpg"
+        },
+        {
+            "id": "TEK_032",
+            "description": "Mobil teknolojiler, kullanıcıların her yerden bilgiye erişmesini ve etkileşim kurmasını sağlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_32.jpg"
+        },
+        {
+            "id": "TEK_033",
+            "description": "Robotik: Endüstri 4.0 ve üretimde otomasyonun geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_33.jpg"
+        },
+        {
+            "id": "TEK_034",
+            "description": "Biyoteknoloji: Gen düzenleme ve tıpta devrim yaratan buluşlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_34.jpg"
+        },
+        {
+            "id": "TEK_035",
+            "description": "Web teknolojileri, internet üzerinden bilgi paylaşımını ve uygulama geliştirmeyi mümkün kılar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_35.jpg"
+        },
+        {
+            "id": "TEK_036",
+            "description": "API’ler, farklı yazılım sistemlerinin birbirleriyle iletişim kurmasını sağlayan arayüzlerdir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_36.jpg"
+        },
+        {
+            "id": "TEK_037",
+            "description": "Mobil teknolojiler, kullanıcıların her yerden bilgiye erişmesini ve etkileşim kurmasını sağlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_38.jpg"
+        },
+        {
+            "id": "TEK_038",
+            "description": "Nesnelerin İnterneti (IoT): Akıllı ev sistemleri ve otomasyon.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_37.jpg"
+        },
+        {
+            "id": "TEK_039",
+            "description": "Yapay zekâ, makinelerin insan benzeri düşünme, öğrenme ve karar verme yetenekleri kazanmasını hedefler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_39.jpg"
+        },
+        {
+            "id": "TEK_040",
+            "description": "Web teknolojileri, internet üzerinden bilgi paylaşımını ve uygulama geliştirmeyi mümkün kılar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_40.jpg"
+        },
+        {
+            "id": "TEK_041",
+            "description": "API’ler, farklı yazılım sistemlerinin birbirleriyle iletişim kurmasını sağlayan arayüzlerdir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_41.jpg"
+        },
+        {
+            "id": "TEK_042",
+            "description": "Teknoloji, sadece araç değil; aynı zamanda toplumsal dönüşümün, iletişimin ve yaratıcılığın motorudur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_42.jpg"
+        },
+        {
+            "id": "TEK_043",
+            "description": "UI/UX tasarımı, teknolojik ürünlerin kullanıcıyla kurduğu etkileşimi estetik ve işlevsel hale getirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_43.jpg"
+        },
+        {
+            "id": "TEK_044",
+            "description": "Nesnelerin İnterneti (IoT): Akıllı ev sistemleri ve otomasyon.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_44.jpg"
+        },
+        {
+            "id": "TEK_045",
+            "description": "UI/UX tasarımı, teknolojik ürünlerin kullanıcıyla kurduğu etkileşimi estetik ve işlevsel hale getirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_45.jpg"
+        },
+        {
+            "id": "TEK_046",
+            "description": "Kuantum bilgisayarlar: Klasik bilgisayarlardan farkları ve potansiyeli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_46.jpg"
+        },
+        {
+            "id": "TEK_047",
+            "description": "Web teknolojileri, internet üzerinden bilgi paylaşımını ve uygulama geliştirmeyi mümkün kılar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_47.jpg"
+        },
+        {
+            "id": "TEK_048",
+            "description": "Biyoteknoloji: Gen düzenleme ve tıpta devrim yaratan buluşlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_48.jpg"
+        },
+        {
+            "id": "TEK_049",
+            "description": "Teknoloji, insan ihtiyaçlarını karşılamak için bilimsel bilgilerin sistemli bir şekilde uygulanmasıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_49.jpg"
+        },
+        {
+            "id": "TEK_050",
+            "description": "Web teknolojileri, internet üzerinden bilgi paylaşımını ve uygulama geliştirmeyi mümkün kılar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_50.jpg"
+        },
+        {
+            "id": "TEK_051",
+            "description": "Mobil teknolojiler, kullanıcıların her yerden bilgiye erişmesini ve etkileşim kurmasını sağlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_51.jpg"
+        },
+        {
+            "id": "TEK_052",
+            "description": "API’ler, farklı yazılım sistemlerinin birbirleriyle iletişim kurmasını sağlayan arayüzlerdir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_52.jpg"
+        },
+        {
+            "id": "TEK_053",
+            "description": "Yapay zekâ, makinelerin insan benzeri düşünme, öğrenme ve karar verme yetenekleri kazanmasını hedefler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_53.jpg"
+        },
+        {
+            "id": "TEK_054",
+            "description": "UI/UX tasarımı, teknolojik ürünlerin kullanıcıyla kurduğu etkileşimi estetik ve işlevsel hale getirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_54.jpg"
+        },
+        {
+            "id": "TEK_055",
+            "description": "Yapay zeka: Makine öğrenmesi ve derin öğrenme uygulamaları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_55.jpg"
+        },
+        {
+            "id": "TEK_056",
+            "description": "API’ler, farklı yazılım sistemlerinin birbirleriyle iletişim kurmasını sağlayan arayüzlerdir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_56.jpg"
+        },
+        {
+            "id": "TEK_057",
+            "description": "Teknoloji, insan ihtiyaçlarını karşılamak için bilimsel bilgilerin sistemli bir şekilde uygulanmasıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_57.jpg"
+        },
+        {
+            "id": "TEK_058",
+            "description": "Kuantum bilgisayarlar: Klasik bilgisayarlardan farkları ve potansiyeli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_58.jpg"
+        },
+        {
+            "id": "TEK_059",
+            "description": "Biyoteknoloji: Gen düzenleme ve tıpta devrim yaratan buluşlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_59.jpg"
+        },
+        {
+            "id": "TEK_060",
+            "description": "Robotik: Endüstri 4.0 ve üretimde otomasyonun geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_60.jpg"
+        },
+        {
+            "id": "TEK_061",
+            "description": "Yapay zeka: Makine öğrenmesi ve derin öğrenme uygulamaları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_61.jpg"
+        },
+        {
+            "id": "TEK_062",
+            "description": "Robotik: Endüstri 4.0 ve üretimde otomasyonun geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_62.jpg"
+        },
+        {
+            "id": "TEK_063",
+            "description": "Teknoloji, insan ihtiyaçlarını karşılamak için bilimsel bilgilerin sistemli bir şekilde uygulanmasıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_63.jpg"
+        },
+        {
+            "id": "TEK_064",
+            "description": "Teknoloji, insan ihtiyaçlarını karşılamak için bilimsel bilgilerin sistemli bir şekilde uygulanmasıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_64.jpg"
+        },
+        {
+            "id": "TEK_065",
+            "description": "Yapay zeka: Makine öğrenmesi ve derin öğrenme uygulamaları.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_65.jpg"
+        },
+        {
+            "id": "TEK_066",
+            "description": "Kuantum bilgisayarlar: Klasik bilgisayarlardan farkları ve potansiyeli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_66.jpg"
+        },
+        {
+            "id": "TEK_067",
+            "description": "Nesnelerin İnterneti (IoT): Akıllı ev sistemleri ve otomasyon.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_67.jpg"
+        },
+        {
+            "id": "TEK_068",
+            "description": "Yapay zekâ, makinelerin insan benzeri düşünme, öğrenme ve karar verme yetenekleri kazanmasını hedefler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_68.jpg"
+        },
+        {
+            "id": "TEK_069",
+            "description": "Robotik: Endüstri 4.0 ve üretimde otomasyonun geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_69.jpg"
+        },
+        {
+            "id": "TEK_070",
+            "description": "Web teknolojileri, internet üzerinden bilgi paylaşımını ve uygulama geliştirmeyi mümkün kılar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_70.jpg"
+        },
+        {
+            "id": "TEK_071",
+            "description": "Kuantum bilgisayarlar: Klasik bilgisayarlardan farkları ve potansiyeli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_71.jpg"
+        },
+        {
+            "id": "TEK_072",
+            "description": "Nesnelerin İnterneti (IoT): Akıllı ev sistemleri ve otomasyon.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_72.jpg"
+        },
+        {
+            "id": "TEK_073",
+            "description": "Yapay zekâ, makinelerin insan benzeri düşünme, öğrenme ve karar verme yetenekleri kazanmasını hedefler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_73.jpg"
+        },
+        {
+            "id": "TEK_074",
+            "description": "Teknoloji, insan ihtiyaçlarını karşılamak için bilimsel bilgilerin sistemli bir şekilde uygulanmasıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_74.jpg"
+        },
+        {
+            "id": "TEK_075",
+            "description": "Teknoloji, sadece araç değil; aynı zamanda toplumsal dönüşümün, iletişimin ve yaratıcılığın motorudur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_75.jpg"
+        },
+        {
+            "id": "TEK_076",
+            "description": "API’ler, farklı yazılım sistemlerinin birbirleriyle iletişim kurmasını sağlayan arayüzlerdir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_76.jpg"
+        },
+        {
+            "id": "TEK_077",
+            "description": "UI/UX tasarımı, teknolojik ürünlerin kullanıcıyla kurduğu etkileşimi estetik ve işlevsel hale getirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_77.jpg"
+        },
+        {
+            "id": "TEK_078",
+            "description": "Mobil teknolojiler, kullanıcıların her yerden bilgiye erişmesini ve etkileşim kurmasını sağlar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_78.jpg"
+        },
+        {
+            "id": "TEK_079",
+            "description": "Teknoloji, insan ihtiyaçlarını karşılamak için bilimsel bilgilerin sistemli bir şekilde uygulanmasıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_79.jpg"
+        },
+        {
+            "id": "TEK_080",
+            "description": "Nesnelerin İnterneti (IoT): Akıllı ev sistemleri ve otomasyon.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_80.jpg"
+        },
+        {
+            "id": "TEK_081",
+            "description": "Robotik: Endüstri 4.0 ve üretimde otomasyonun geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_81.jpg"
+        },
+        {
+            "id": "TEK_082",
+            "description": "API’ler, farklı yazılım sistemlerinin birbirleriyle iletişim kurmasını sağlayan arayüzlerdir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_82.jpg"
+        },
+        {
+            "id": "TEK_083",
+            "description": "UI/UX tasarımı, teknolojik ürünlerin kullanıcıyla kurduğu etkileşimi estetik ve işlevsel hale getirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_83.jpg"
+        },
+        {
+            "id": "TEK_084",
+            "description": "Teknoloji, sadece araç değil; aynı zamanda toplumsal dönüşümün, iletişimin ve yaratıcılığın motorudur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_84.jpg"
+        },
+        {
+            "id": "TEK_085",
+            "description": "Robotik: Endüstri 4.0 ve üretimde otomasyonun geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_85.jpg"
+        },
+        {
+            "id": "TEK_086",
+            "description": "Teknoloji, insan ihtiyaçlarını karşılamak için bilimsel bilgilerin sistemli bir şekilde uygulanmasıdır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_86.jpg"
+        },
+        {
+            "id": "TEK_087",
+            "description": "Web teknolojileri, internet üzerinden bilgi paylaşımını ve uygulama geliştirmeyi mümkün kılar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_87.jpg"
+        },
+        {
+            "id": "TEK_088",
+            "description": "Robotik: Endüstri 4.0 ve üretimde otomasyonun geleceği.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_88.jpg"
+        },
+        {
+            "id": "TEK_089",
+            "description": "Teknoloji, sadece araç değil; aynı zamanda toplumsal dönüşümün, iletişimin ve yaratıcılığın motorudur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_89.jpg"
+        },
+        {
+            "id": "TEK_090",
+            "description": "Nesnelerin İnterneti (IoT): Akıllı ev sistemleri ve otomasyon.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_90.jpg"
+        },
+        {
+            "id": "TEK_091",
+            "description": "UI/UX tasarımı, teknolojik ürünlerin kullanıcıyla kurduğu etkileşimi estetik ve işlevsel hale getirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_91.jpg"
+        },
+        {
+            "id": "TEK_092",
+            "description": "Kuantum bilgisayarlar: Klasik bilgisayarlardan farkları ve potansiyeli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/technology_92.jpg"
+        }
+    ]
+}

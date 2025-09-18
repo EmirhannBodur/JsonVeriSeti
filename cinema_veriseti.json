@@ -1,0 +1,472 @@
+{
+    "kategori": "🎬 Sinema",
+    "olusturulma_tarihi": "2025-09-18 20:06:14",
+    "veri_sayisi": 93,
+    "veriler": [
+        {
+            "id": "SIN_001",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_1.jpg"
+        },
+        {
+            "id": "SIN_002",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_2.jpg"
+        },
+        {
+            "id": "SIN_003",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_3.jpg"
+        },
+        {
+            "id": "SIN_004",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_4.jpg"
+        },
+        {
+            "id": "SIN_005",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_5.jpg"
+        },
+        {
+            "id": "SIN_006",
+            "description": "Bağımsız sinema: Düşük bütçeli ama yüksek etkili filmler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_6.jpg"
+        },
+        {
+            "id": "SIN_007",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_7.jpg"
+        },
+        {
+            "id": "SIN_008",
+            "description": "Film analizleri: Kült olmuş filmlerin detaylı incelemeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_8.jpg"
+        },
+        {
+            "id": "SIN_009",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_9.jpg"
+        },
+        {
+            "id": "SIN_010",
+            "description": "Bağımsız sinema: Düşük bütçeli ama yüksek etkili filmler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_10.jpg"
+        },
+        {
+            "id": "SIN_011",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_11.jpg"
+        },
+        {
+            "id": "SIN_012",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_12.jpg"
+        },
+        {
+            "id": "SIN_013",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_13.jpg"
+        },
+        {
+            "id": "SIN_014",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_14.jpg"
+        },
+        {
+            "id": "SIN_015",
+            "description": "Film analizleri: Kült olmuş filmlerin detaylı incelemeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_15.jpg"
+        },
+        {
+            "id": "SIN_016",
+            "description": "Film analizleri: Kült olmuş filmlerin detaylı incelemeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_16.jpg"
+        },
+        {
+            "id": "SIN_017",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_17.jpg"
+        },
+        {
+            "id": "SIN_018",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_18.jpg"
+        },
+        {
+            "id": "SIN_019",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_19.jpg"
+        },
+        {
+            "id": "SIN_020",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_20.jpg"
+        },
+        {
+            "id": "SIN_021",
+            "description": "Bağımsız sinema: Düşük bütçeli ama yüksek etkili filmler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_21.jpg"
+        },
+        {
+            "id": "SIN_022",
+            "description": "Film analizleri: Kült olmuş filmlerin detaylı incelemeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_22.jpg"
+        },
+        {
+            "id": "SIN_023",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_23.jpg"
+        },
+        {
+            "id": "SIN_024",
+            "description": "Film analizleri: Kült olmuş filmlerin detaylı incelemeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_24.jpg"
+        },
+        {
+            "id": "SIN_025",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_25.jpg"
+        },
+        {
+            "id": "SIN_026",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_26.jpg"
+        },
+        {
+            "id": "SIN_027",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_27.jpg"
+        },
+        {
+            "id": "SIN_028",
+            "description": "Bağımsız sinema: Düşük bütçeli ama yüksek etkili filmler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_28.jpg"
+        },
+        {
+            "id": "SIN_029",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_29.jpg"
+        },
+        {
+            "id": "SIN_030",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_30.jpg"
+        },
+        {
+            "id": "SIN_031",
+            "description": "Bağımsız sinema: Düşük bütçeli ama yüksek etkili filmler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_31.jpg"
+        },
+        {
+            "id": "SIN_032",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_32.jpg"
+        },
+        {
+            "id": "SIN_033",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_33.jpg"
+        },
+        {
+            "id": "SIN_034",
+            "description": "Bağımsız sinema: Düşük bütçeli ama yüksek etkili filmler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_34.jpg"
+        },
+        {
+            "id": "SIN_035",
+            "description": "Bağımsız sinema: Düşük bütçeli ama yüksek etkili filmler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_35.jpg"
+        },
+        {
+            "id": "SIN_036",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_36.jpg"
+        },
+        {
+            "id": "SIN_037",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_37.jpg"
+        },
+        {
+            "id": "SIN_038",
+            "description": "Bağımsız sinema: Düşük bütçeli ama yüksek etkili filmler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_38.jpg"
+        },
+        {
+            "id": "SIN_039",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_39.jpg"
+        },
+        {
+            "id": "SIN_040",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_40.jpg"
+        },
+        {
+            "id": "SIN_041",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_41.jpg"
+        },
+        {
+            "id": "SIN_042",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_42.jpg"
+        },
+        {
+            "id": "SIN_043",
+            "description": "Bağımsız sinema: Düşük bütçeli ama yüksek etkili filmler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_43.jpg"
+        },
+        {
+            "id": "SIN_044",
+            "description": "Bağımsız sinema: Düşük bütçeli ama yüksek etkili filmler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_44.jpg"
+        },
+        {
+            "id": "SIN_045",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_45.jpg"
+        },
+        {
+            "id": "SIN_046",
+            "description": "Film analizleri: Kült olmuş filmlerin detaylı incelemeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_46.jpg"
+        },
+        {
+            "id": "SIN_047",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_47.jpg"
+        },
+        {
+            "id": "SIN_048",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_48.jpg"
+        },
+        {
+            "id": "SIN_049",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_49.jpg"
+        },
+        {
+            "id": "SIN_050",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_50.jpg"
+        },
+        {
+            "id": "SIN_051",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_51.jpg"
+        },
+        {
+            "id": "SIN_052",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_52.jpg"
+        },
+        {
+            "id": "SIN_053",
+            "description": "Bağımsız sinema: Düşük bütçeli ama yüksek etkili filmler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_53.jpg"
+        },
+        {
+            "id": "SIN_054",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_54.jpg"
+        },
+        {
+            "id": "SIN_055",
+            "description": "Bağımsız sinema: Düşük bütçeli ama yüksek etkili filmler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_55.jpg"
+        },
+        {
+            "id": "SIN_056",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_56.jpg"
+        },
+        {
+            "id": "SIN_057",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_57.jpg"
+        },
+        {
+            "id": "SIN_058",
+            "description": "Bağımsız sinema: Düşük bütçeli ama yüksek etkili filmler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_58.jpg"
+        },
+        {
+            "id": "SIN_059",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_59.jpg"
+        },
+        {
+            "id": "SIN_060",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_60.jpg"
+        },
+        {
+            "id": "SIN_061",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_61.jpg"
+        },
+        {
+            "id": "SIN_062",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_62.jpg"
+        },
+        {
+            "id": "SIN_063",
+            "description": "Film analizleri: Kült olmuş filmlerin detaylı incelemeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_63.jpg"
+        },
+        {
+            "id": "SIN_064",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_64.jpg"
+        },
+        {
+            "id": "SIN_065",
+            "description": "Film analizleri: Kült olmuş filmlerin detaylı incelemeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_65.jpg"
+        },
+        {
+            "id": "SIN_066",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_66.jpg"
+        },
+        {
+            "id": "SIN_067",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_67.jpg"
+        },
+        {
+            "id": "SIN_068",
+            "description": "Bağımsız sinema: Düşük bütçeli ama yüksek etkili filmler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_68.jpg"
+        },
+        {
+            "id": "SIN_069",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_69.jpg"
+        },
+        {
+            "id": "SIN_070",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_70.jpg"
+        },
+        {
+            "id": "SIN_071",
+            "description": "Film analizleri: Kült olmuş filmlerin detaylı incelemeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_71.jpg"
+        },
+        {
+            "id": "SIN_072",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_72.jpg"
+        },
+        {
+            "id": "SIN_073",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_73.jpg"
+        },
+        {
+            "id": "SIN_074",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_74.jpg"
+        },
+        {
+            "id": "SIN_075",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_75.jpg"
+        },
+        {
+            "id": "SIN_076",
+            "description": "Film analizleri: Kült olmuş filmlerin detaylı incelemeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_76.jpg"
+        },
+        {
+            "id": "SIN_077",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_77.jpg"
+        },
+        {
+            "id": "SIN_078",
+            "description": "Film analizleri: Kült olmuş filmlerin detaylı incelemeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_78.jpg"
+        },
+        {
+            "id": "SIN_079",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_79.jpg"
+        },
+        {
+            "id": "SIN_080",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_80.jpg"
+        },
+        {
+            "id": "SIN_081",
+            "description": "Film analizleri: Kült olmuş filmlerin detaylı incelemeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_81.jpg"
+        },
+        {
+            "id": "SIN_082",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_82.jpg"
+        },
+        {
+            "id": "SIN_083",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_83.jpg"
+        },
+        {
+            "id": "SIN_084",
+            "description": "Film analizleri: Kült olmuş filmlerin detaylı incelemeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_84.jpg"
+        },
+        {
+            "id": "SIN_085",
+            "description": "Bağımsız sinema: Düşük bütçeli ama yüksek etkili filmler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_85.jpg"
+        },
+        {
+            "id": "SIN_086",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_86.jpg"
+        },
+        {
+            "id": "SIN_087",
+            "description": "Türk sineması: Yeşilçam'dan günümüze Türk filmlerinin gelişimi.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_87.jpg"
+        },
+        {
+            "id": "SIN_088",
+            "description": "Sinema tarihi: Sessiz filmlerden modern blockbuster'lara evrim.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_88.jpg"
+        },
+        {
+            "id": "SIN_089",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_89.jpg"
+        },
+        {
+            "id": "SIN_090",
+            "description": "Oscar ödülleri: En iyi film kazananları ve arkalarındaki hikayeler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_90.jpg"
+        },
+        {
+            "id": "SIN_091",
+            "description": "Film analizleri: Kült olmuş filmlerin detaylı incelemeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_91.jpg"
+        },
+        {
+            "id": "SIN_092",
+            "description": "Film analizleri: Kült olmuş filmlerin detaylı incelemeleri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_92.jpg"
+        },
+        {
+            "id": "SIN_093",
+            "description": "Bağımsız sinema: Düşük bütçeli ama yüksek etkili filmler.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/cinema_93.jpg"
+        }
+    ]
+}

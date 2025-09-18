@@ -1,0 +1,507 @@
+{
+    "kategori": "🪖 Silahlar",
+    "olusturulma_tarihi": "2025-09-18 18:51:45",
+    "veri_sayisi": 100,
+    "veriler": [
+        {
+            "id": "SIL_001",
+            "description": "Silahların tasarımı, ergonomi ve kullanıcı deneyimi açısından ciddi mühendislik gerektirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_1.jpg"
+        },
+        {
+            "id": "SIL_002",
+            "description": "Silahların tasarımı, ergonomi ve kullanıcı deneyimi açısından ciddi mühendislik gerektirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_2.jpg"
+        },
+        {
+            "id": "SIL_003",
+            "description": "Glock 13 baya sağlam tabanca hem hafif hem seri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_3.jpg"
+        },
+        {
+            "id": "SIL_004",
+            "description": "Silahların etik kullanımı, uluslararası hukuk ve insan hakları çerçevesinde sıkça tartışılan bir konudur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_4.jpg"
+        },
+        {
+            "id": "SIL_005",
+            "description": "Savunma amaçlı kullanılan silahlar, bireylerin veya ülkelerin güvenliğini sağlamak için geliştirilmiştir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_5.jpg"
+        },
+        {
+            "id": "SIL_006",
+            "description": "Silah teknolojisi, yapay zekâ ve sensör sistemleriyle birleşerek akıllı silahlar üretmeye başlamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_6.jpg"
+        },
+        {
+            "id": "SIL_007",
+            "description": "Silahların tasarımı, ergonomi ve kullanıcı deneyimi açısından ciddi mühendislik gerektirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_7.jpg"
+        },
+        {
+            "id": "SIL_008",
+            "description": "Ateşli silahlar, barutun patlamasıyla oluşan gaz basıncı sayesinde mermiyi namludan dışarı fırlatır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_8.jpg"
+        },
+        {
+            "id": "SIL_009",
+            "description": "Bireysel silahlanma insanların kendilerini koruması için çok gerekli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_9.jpg"
+        },
+        {
+            "id": "SIL_010",
+            "description": "Enerji silahları, lazer veya elektromanyetik dalgalar kullanarak hedefi etkisiz hale getirebilir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_10.jpg"
+        },
+        {
+            "id": "SIL_011",
+            "description": "Savunma amaçlı kullanılan silahlar, bireylerin veya ülkelerin güvenliğini sağlamak için geliştirilmiştir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_11.jpg"
+        },
+        {
+            "id": "SIL_012",
+            "description": "Enerji silahları, lazer veya elektromanyetik dalgalar kullanarak hedefi etkisiz hale getirebilir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_12.jpg"
+        },
+        {
+            "id": "SIL_013",
+            "description": "Ateşli silahlar, barutun patlamasıyla oluşan gaz basıncı sayesinde mermiyi namludan dışarı fırlatır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_13.jpg"
+        },
+        {
+            "id": "SIL_014",
+            "description": "Savunma amaçlı kullanılan silahlar, bireylerin veya ülkelerin güvenliğini sağlamak için geliştirilmiştir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_14.jpg"
+        },
+        {
+            "id": "SIL_015",
+            "description": "Silahların tasarımı, ergonomi ve kullanıcı deneyimi açısından ciddi mühendislik gerektirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_15.jpg"
+        },
+        {
+            "id": "SIL_016",
+            "description": "Silahlar, mekanik veya dijital sistemlerle çalışan, mermi veya enerji yayan araçlardır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_16.jpg"
+        },
+        {
+            "id": "SIL_017",
+            "description": "Ateşli silahlar, barutun patlamasıyla oluşan gaz basıncı sayesinde mermiyi namludan dışarı fırlatır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_17.jpg"
+        },
+        {
+            "id": "SIL_018",
+            "description": "Tarih boyunca silahlar, savaşların seyrini değiştiren en kritik araçlar arasında yer almıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_18.jpg"
+        },
+        {
+            "id": "SIL_019",
+            "description": "Enerji silahları, lazer veya elektromanyetik dalgalar kullanarak hedefi etkisiz hale getirebilir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_19.jpg"
+        },
+        {
+            "id": "SIL_020",
+            "description": "Silahlar aynı zamanda barış görüşmelerinin ve caydırıcılığın bir parçası olarak stratejik rol oynar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_20.jpg"
+        },
+        {
+            "id": "SIL_021",
+            "description": "Glock 13 baya sağlam tabanca hem hafif hem seri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_21.jpg"
+        },
+        {
+            "id": "SIL_022",
+            "description": "Tüfekler, uzun menzilli ve yüksek isabet oranına sahip silah türlerindendir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_22.jpg"
+        },
+        {
+            "id": "SIL_023",
+            "description": "Glock 13 baya sağlam tabanca hem hafif hem seri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_23.jpg"
+        },
+        {
+            "id": "SIL_024",
+            "description": "Glock 13 baya sağlam tabanca hem hafif hem seri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_24.jpg"
+        },
+        {
+            "id": "SIL_025",
+            "description": "Ateşli silahlar, barutun patlamasıyla oluşan gaz basıncı sayesinde mermiyi namludan dışarı fırlatır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_25.jpg"
+        },
+        {
+            "id": "SIL_026",
+            "description": "Silahlar, mekanik veya dijital sistemlerle çalışan, mermi veya enerji yayan araçlardır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_26.jpg"
+        },
+        {
+            "id": "SIL_027",
+            "description": "Silah teknolojisi, yapay zekâ ve sensör sistemleriyle birleşerek akıllı silahlar üretmeye başlamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_27.jpg"
+        },
+        {
+            "id": "SIL_028",
+            "description": "Silahların tasarımı, ergonomi ve kullanıcı deneyimi açısından ciddi mühendislik gerektirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_28.jpg"
+        },
+        {
+            "id": "SIL_029",
+            "description": "Bireysel silahlanma insanların kendilerini koruması için çok gerekli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_29.jpg"
+        },
+        {
+            "id": "SIL_030",
+            "description": "Silahlar aynı zamanda barış görüşmelerinin ve caydırıcılığın bir parçası olarak stratejik rol oynar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_30.jpg"
+        },
+        {
+            "id": "SIL_031",
+            "description": "Glock 13 baya sağlam tabanca hem hafif hem seri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_31.jpg"
+        },
+        {
+            "id": "SIL_032",
+            "description": "Savunma amaçlı kullanılan silahlar, bireylerin veya ülkelerin güvenliğini sağlamak için geliştirilmiştir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_32.jpg"
+        },
+        {
+            "id": "SIL_033",
+            "description": "Silahlar, mekanik veya dijital sistemlerle çalışan, mermi veya enerji yayan araçlardır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_33.jpg"
+        },
+        {
+            "id": "SIL_034",
+            "description": "Silahlar, mekanik veya dijital sistemlerle çalışan, mermi veya enerji yayan araçlardır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_34.jpg"
+        },
+        {
+            "id": "SIL_035",
+            "description": "Tarih boyunca silahlar, savaşların seyrini değiştiren en kritik araçlar arasında yer almıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_35.jpg"
+        },
+        {
+            "id": "SIL_036",
+            "description": "Silah teknolojisi, yapay zekâ ve sensör sistemleriyle birleşerek akıllı silahlar üretmeye başlamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_36.jpg"
+        },
+        {
+            "id": "SIL_037",
+            "description": "Bireysel silahlanma insanların kendilerini koruması için çok gerekli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_37.jpg"
+        },
+        {
+            "id": "SIL_038",
+            "description": "Silahlar aynı zamanda barış görüşmelerinin ve caydırıcılığın bir parçası olarak stratejik rol oynar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_38.jpg"
+        },
+        {
+            "id": "SIL_039",
+            "description": "Glock 13 baya sağlam tabanca hem hafif hem seri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_39.jpg"
+        },
+        {
+            "id": "SIL_040",
+            "description": "Tarih boyunca silahlar, savaşların seyrini değiştiren en kritik araçlar arasında yer almıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_40.jpg"
+        },
+        {
+            "id": "SIL_041",
+            "description": "Ateşli silahlar, barutun patlamasıyla oluşan gaz basıncı sayesinde mermiyi namludan dışarı fırlatır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_41.jpg"
+        },
+        {
+            "id": "SIL_042",
+            "description": "Ateşli silahlar, barutun patlamasıyla oluşan gaz basıncı sayesinde mermiyi namludan dışarı fırlatır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_42.jpg"
+        },
+        {
+            "id": "SIL_043",
+            "description": "Silahlar, mekanik veya dijital sistemlerle çalışan, mermi veya enerji yayan araçlardır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_43.jpg"
+        },
+        {
+            "id": "SIL_044",
+            "description": "Glock 13 baya sağlam tabanca hem hafif hem seri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_44.jpg"
+        },
+        {
+            "id": "SIL_045",
+            "description": "Silah teknolojisi, yapay zekâ ve sensör sistemleriyle birleşerek akıllı silahlar üretmeye başlamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_45.jpg"
+        },
+        {
+            "id": "SIL_046",
+            "description": "Ateşli silahlar, barutun patlamasıyla oluşan gaz basıncı sayesinde mermiyi namludan dışarı fırlatır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_46.jpg"
+        },
+        {
+            "id": "SIL_047",
+            "description": "Glock 13 baya sağlam tabanca hem hafif hem seri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_47.jpg"
+        },
+        {
+            "id": "SIL_048",
+            "description": "Silahların tasarımı, ergonomi ve kullanıcı deneyimi açısından ciddi mühendislik gerektirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_48.jpg"
+        },
+        {
+            "id": "SIL_049",
+            "description": "Silahların tasarımı, ergonomi ve kullanıcı deneyimi açısından ciddi mühendislik gerektirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_49.jpg"
+        },
+        {
+            "id": "SIL_050",
+            "description": "Enerji silahları, lazer veya elektromanyetik dalgalar kullanarak hedefi etkisiz hale getirebilir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_50.jpg"
+        },
+        {
+            "id": "SIL_051",
+            "description": "Savunma amaçlı kullanılan silahlar, bireylerin veya ülkelerin güvenliğini sağlamak için geliştirilmiştir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_51.jpg"
+        },
+        {
+            "id": "SIL_052",
+            "description": "Silahlar aynı zamanda barış görüşmelerinin ve caydırıcılığın bir parçası olarak stratejik rol oynar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_52.jpg"
+        },
+        {
+            "id": "SIL_053",
+            "description": "Savunma amaçlı kullanılan silahlar, bireylerin veya ülkelerin güvenliğini sağlamak için geliştirilmiştir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_53.jpg"
+        },
+        {
+            "id": "SIL_054",
+            "description": "Savunma amaçlı kullanılan silahlar, bireylerin veya ülkelerin güvenliğini sağlamak için geliştirilmiştir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_55.jpg"
+        },
+        {
+            "id": "SIL_055",
+            "description": "Silahların tasarımı, ergonomi ve kullanıcı deneyimi açısından ciddi mühendislik gerektirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_54.jpg"
+        },
+        {
+            "id": "SIL_056",
+            "description": "Silahların etik kullanımı, uluslararası hukuk ve insan hakları çerçevesinde sıkça tartışılan bir konudur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_56.jpg"
+        },
+        {
+            "id": "SIL_057",
+            "description": "Bireysel silahlanma insanların kendilerini koruması için çok gerekli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_57.jpg"
+        },
+        {
+            "id": "SIL_058",
+            "description": "Enerji silahları, lazer veya elektromanyetik dalgalar kullanarak hedefi etkisiz hale getirebilir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_58.jpg"
+        },
+        {
+            "id": "SIL_059",
+            "description": "Glock 13 baya sağlam tabanca hem hafif hem seri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_59.jpg"
+        },
+        {
+            "id": "SIL_060",
+            "description": "Silah teknolojisi, yapay zekâ ve sensör sistemleriyle birleşerek akıllı silahlar üretmeye başlamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_60.jpg"
+        },
+        {
+            "id": "SIL_061",
+            "description": "Bireysel silahlanma insanların kendilerini koruması için çok gerekli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_61.jpg"
+        },
+        {
+            "id": "SIL_062",
+            "description": "Tüfekler, uzun menzilli ve yüksek isabet oranına sahip silah türlerindendir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_62.jpg"
+        },
+        {
+            "id": "SIL_063",
+            "description": "Silahların etik kullanımı, uluslararası hukuk ve insan hakları çerçevesinde sıkça tartışılan bir konudur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_63.jpg"
+        },
+        {
+            "id": "SIL_064",
+            "description": "Silah teknolojisi, yapay zekâ ve sensör sistemleriyle birleşerek akıllı silahlar üretmeye başlamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_64.jpg"
+        },
+        {
+            "id": "SIL_065",
+            "description": "Glock 13 baya sağlam tabanca hem hafif hem seri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_65.jpg"
+        },
+        {
+            "id": "SIL_066",
+            "description": "Tarih boyunca silahlar, savaşların seyrini değiştiren en kritik araçlar arasında yer almıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_66.jpg"
+        },
+        {
+            "id": "SIL_067",
+            "description": "Enerji silahları, lazer veya elektromanyetik dalgalar kullanarak hedefi etkisiz hale getirebilir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_67.jpg"
+        },
+        {
+            "id": "SIL_068",
+            "description": "Silah teknolojisi, yapay zekâ ve sensör sistemleriyle birleşerek akıllı silahlar üretmeye başlamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_68.jpg"
+        },
+        {
+            "id": "SIL_069",
+            "description": "Savunma amaçlı kullanılan silahlar, bireylerin veya ülkelerin güvenliğini sağlamak için geliştirilmiştir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_69.jpg"
+        },
+        {
+            "id": "SIL_070",
+            "description": "Silahların tasarımı, ergonomi ve kullanıcı deneyimi açısından ciddi mühendislik gerektirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_70.jpg"
+        },
+        {
+            "id": "SIL_071",
+            "description": "Bireysel silahlanma insanların kendilerini koruması için çok gerekli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_71.jpg"
+        },
+        {
+            "id": "SIL_072",
+            "description": "Ateşli silahlar, barutun patlamasıyla oluşan gaz basıncı sayesinde mermiyi namludan dışarı fırlatır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_72.jpg"
+        },
+        {
+            "id": "SIL_073",
+            "description": "Ateşli silahlar, barutun patlamasıyla oluşan gaz basıncı sayesinde mermiyi namludan dışarı fırlatır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_73.jpg"
+        },
+        {
+            "id": "SIL_074",
+            "description": "Tarih boyunca silahlar, savaşların seyrini değiştiren en kritik araçlar arasında yer almıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_74.jpg"
+        },
+        {
+            "id": "SIL_075",
+            "description": "Bireysel silahlanma insanların kendilerini koruması için çok gerekli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_75.jpg"
+        },
+        {
+            "id": "SIL_076",
+            "description": "Enerji silahları, lazer veya elektromanyetik dalgalar kullanarak hedefi etkisiz hale getirebilir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_76.jpg"
+        },
+        {
+            "id": "SIL_077",
+            "description": "Enerji silahları, lazer veya elektromanyetik dalgalar kullanarak hedefi etkisiz hale getirebilir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_77.jpg"
+        },
+        {
+            "id": "SIL_078",
+            "description": "Tarih boyunca silahlar, savaşların seyrini değiştiren en kritik araçlar arasında yer almıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_78.jpg"
+        },
+        {
+            "id": "SIL_079",
+            "description": "Savunma amaçlı kullanılan silahlar, bireylerin veya ülkelerin güvenliğini sağlamak için geliştirilmiştir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_79.jpg"
+        },
+        {
+            "id": "SIL_080",
+            "description": "Bireysel silahlanma insanların kendilerini koruması için çok gerekli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_80.jpg"
+        },
+        {
+            "id": "SIL_081",
+            "description": "Bireysel silahlanma insanların kendilerini koruması için çok gerekli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_81.jpg"
+        },
+        {
+            "id": "SIL_082",
+            "description": "Enerji silahları, lazer veya elektromanyetik dalgalar kullanarak hedefi etkisiz hale getirebilir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_82.jpg"
+        },
+        {
+            "id": "SIL_083",
+            "description": "Ateşli silahlar, barutun patlamasıyla oluşan gaz basıncı sayesinde mermiyi namludan dışarı fırlatır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_83.jpg"
+        },
+        {
+            "id": "SIL_084",
+            "description": "Silahların etik kullanımı, uluslararası hukuk ve insan hakları çerçevesinde sıkça tartışılan bir konudur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_84.jpg"
+        },
+        {
+            "id": "SIL_085",
+            "description": "Silahlar aynı zamanda barış görüşmelerinin ve caydırıcılığın bir parçası olarak stratejik rol oynar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_85.jpg"
+        },
+        {
+            "id": "SIL_086",
+            "description": "Enerji silahları, lazer veya elektromanyetik dalgalar kullanarak hedefi etkisiz hale getirebilir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_86.jpg"
+        },
+        {
+            "id": "SIL_087",
+            "description": "Silah teknolojisi, yapay zekâ ve sensör sistemleriyle birleşerek akıllı silahlar üretmeye başlamıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_87.jpg"
+        },
+        {
+            "id": "SIL_088",
+            "description": "Bireysel silahlanma insanların kendilerini koruması için çok gerekli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_88.jpg"
+        },
+        {
+            "id": "SIL_089",
+            "description": "Tarih boyunca silahlar, savaşların seyrini değiştiren en kritik araçlar arasında yer almıştır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_89.jpg"
+        },
+        {
+            "id": "SIL_090",
+            "description": "Ateşli silahlar, barutun patlamasıyla oluşan gaz basıncı sayesinde mermiyi namludan dışarı fırlatır.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_90.jpg"
+        },
+        {
+            "id": "SIL_091",
+            "description": "Glock 13 baya sağlam tabanca hem hafif hem seri.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_91.jpg"
+        },
+        {
+            "id": "SIL_092",
+            "description": "Silahlar aynı zamanda barış görüşmelerinin ve caydırıcılığın bir parçası olarak stratejik rol oynar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_92.jpg"
+        },
+        {
+            "id": "SIL_093",
+            "description": "Silahların tasarımı, ergonomi ve kullanıcı deneyimi açısından ciddi mühendislik gerektirir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_93.jpg"
+        },
+        {
+            "id": "SIL_094",
+            "description": "Silahlar aynı zamanda barış görüşmelerinin ve caydırıcılığın bir parçası olarak stratejik rol oynar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_94.jpg"
+        },
+        {
+            "id": "SIL_095",
+            "description": "Savunma amaçlı kullanılan silahlar, bireylerin veya ülkelerin güvenliğini sağlamak için geliştirilmiştir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_95.jpg"
+        },
+        {
+            "id": "SIL_096",
+            "description": "Silahların etik kullanımı, uluslararası hukuk ve insan hakları çerçevesinde sıkça tartışılan bir konudur.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_96.jpg"
+        },
+        {
+            "id": "SIL_097",
+            "description": "Enerji silahları, lazer veya elektromanyetik dalgalar kullanarak hedefi etkisiz hale getirebilir.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_97.jpg"
+        },
+        {
+            "id": "SIL_098",
+            "description": "Bireysel silahlanma insanların kendilerini koruması için çok gerekli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_98.jpg"
+        },
+        {
+            "id": "SIL_099",
+            "description": "Silahlar aynı zamanda barış görüşmelerinin ve caydırıcılığın bir parçası olarak stratejik rol oynar.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_99.jpg"
+        },
+        {
+            "id": "SIL_100",
+            "description": "Bireysel silahlanma insanların kendilerini koruması için çok gerekli.",
+            "imageurl": "https://raw.githubusercontent.com/EmirhannBodur/JsonVeriSeti/main/guns_100.jpg"
+        }
+    ]
+}
